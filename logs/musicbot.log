@@ -1,0 +1,339 @@
+[5739.328145981] 2018-02-18 11:57:49,005 - INFO - launcher: Starting sanity checks
+[5740.328311920] 2018-02-18 11:57:49,006 - INFO - launcher: Checking for python 3.5+
+[5740.328311920] 2018-02-18 11:57:49,006 - INFO - launcher: Checking console encoding
+[5740.328311920] 2018-02-18 11:57:49,006 - INFO - launcher: Setting console encoding to UTF-8
+[5741.328239441] 2018-02-18 11:57:49,007 - INFO - launcher: Ensuring we're in the right folder
+[6094.348430634] 2018-02-18 11:57:49,360 - INFO - launcher: Adding local bins/ folder to path
+[6116.349935532] 2018-02-18 11:57:49,382 - INFO - launcher: Checks passed.
+[6117.349863052] 2018-02-18 11:57:49,383 - INFO - launcher: Moving old musicbot log
+
+######################### PRE-RUN SANITY CHECKS PASSED #########################
+
+[72.8857805728912354] 2018-02-18 11:58:56,151 - DEBUG - musicbot.bot | In bot.py::MainThread(5952), line 213 in _setup_logging: Set logging level to EVERYTHING
+[72.9347832202911377] 2018-02-18 11:58:56,200 - INFO - musicbot.bot | In bot.py::MainThread(5952), line 80 in __init__: =========== MusicBot (version 1.9.6_2) ===========
+[72.9387836456298828] 2018-02-18 11:58:56,204 - INFO - musicbot.bot | In bot.py::MainThread(5952), line 86 in __init__: Loaded autoplaylist with 511 entries
+[72.941783667] launcher-INFO: Connecting
+[79.2268509864807129] 2018-02-18 11:59:02,492 - DEBUG - musicbot.bot | In bot.py::MainThread(5952), line 1011 in on_ready: Connection established, ready to go.
+[79.2328512668609619] 2018-02-18 11:59:02,498 - DEBUG - musicbot.bot | In bot.py::MainThread(5952), line 324 in _cache_app_info: Caching app info
+[79.4848532676696777] 2018-02-18 11:59:02,750 - DEBUG - musicbot.bot | In bot.py::MainThread(5952), line 828 in _scheck_ensure_env: Ensuring data folders exist
+[79.6748535633087158] 2018-02-18 11:59:02,940 - DEBUG - musicbot.bot | In bot.py::MainThread(5952), line 838 in _scheck_ensure_env: Deleted old audio cache
+[79.6748535633087158] 2018-02-18 11:59:02,940 - DEBUG - musicbot.bot | In bot.py::MainThread(5952), line 844 in _scheck_server_permissions: Checking server permissions
+[79.6748535633087158] 2018-02-18 11:59:02,940 - DEBUG - musicbot.bot | In bot.py::MainThread(5952), line 848 in _scheck_autoplaylist: Auditing autoplaylist
+[79.6748535633087158] 2018-02-18 11:59:02,940 - DEBUG - musicbot.bot | In bot.py::MainThread(5952), line 852 in _scheck_configs: Validating config
+[79.6748535633087158] 2018-02-18 11:59:02,940 - DEBUG - musicbot.config | In config.py::MainThread(5952), line 155 in async_validate: Validating options...
+[79.6748535633087158] 2018-02-18 11:59:02,940 - DEBUG - musicbot.bot | In bot.py::MainThread(5952), line 855 in _scheck_configs: Validating permissions config
+[79.6748535633087158] 2018-02-18 11:59:02,940 - DEBUG - musicbot.permissions | In permissions.py::MainThread(5952), line 59 in async_validate: Validating permissions...
+[79.6748535633087158] 2018-02-18 11:59:02,940 - INFO - musicbot.bot | In bot.py::MainThread(5952), line 1022 in on_ready: Connected to Discord!
+[79.6748535633087158] 2018-02-18 11:59:02,940 - INFO - musicbot.bot | In bot.py::MainThread(5952), line 1032 in on_ready: Bot:   380617521709187072/RegisBot#6361 [BOT]
+[79.6848535537719727] 2018-02-18 11:59:02,950 - INFO - musicbot.bot | In bot.py::MainThread(5952), line 1040 in on_ready: Owner: 167187444083458048/Rëgîš#6434
+
+[79.6848535537719727] 2018-02-18 11:59:02,950 - INFO - musicbot.bot | In bot.py::MainThread(5952), line 1043 in on_ready: Server List:
+[79.6848535537719727] 2018-02-18 11:59:02,950 - INFO - musicbot.bot | In bot.py::MainThread(5952), line 1044 in <listcomp>:  - My bot
+[79.6848535537719727] 2018-02-18 11:59:02,950 - INFO - musicbot.bot | In bot.py::MainThread(5952), line 1044 in <listcomp>:  - bijs
+[79.6848535537719727] 2018-02-18 11:59:02,950 - INFO - musicbot.bot | In bot.py::MainThread(5952), line 1075 in on_ready: Bound to text channels:
+[79.6848535537719727] 2018-02-18 11:59:02,950 - INFO - musicbot.bot | In bot.py::MainThread(5952), line 1076 in <listcomp>:  - bijs/musicbot-room
+[79.6848535537719727] 2018-02-18 11:59:02,950 - INFO - musicbot.bot | In bot.py::MainThread(5952), line 1101 in on_ready: Autojoining voice chanels:
+[79.6948535442352295] 2018-02-18 11:59:02,960 - INFO - musicbot.bot | In bot.py::MainThread(5952), line 1102 in <listcomp>:  - bijs/🎶 ᗩᑌᗪITOᖇIᑌᗰ 3🎧
+[79.6948535442352295] 2018-02-18 11:59:02,960 - INFO - musicbot.bot | In bot.py::MainThread(5952), line 1118 in on_ready: Options:
+[79.7048535346984863] 2018-02-18 11:59:02,970 - INFO - musicbot.bot | In bot.py::MainThread(5952), line 1120 in on_ready:   Command prefix: -
+[79.7048535346984863] 2018-02-18 11:59:02,970 - INFO - musicbot.bot | In bot.py::MainThread(5952), line 1121 in on_ready:   Default volume: 15%
+[79.7048535346984863] 2018-02-18 11:59:02,970 - INFO - musicbot.bot | In bot.py::MainThread(5952), line 1123 in on_ready:   Skip threshold: 4 votes or 50%
+[79.7048535346984863] 2018-02-18 11:59:02,970 - INFO - musicbot.bot | In bot.py::MainThread(5952), line 1124 in on_ready:   Now Playing @mentions: Disabled
+[79.7048535346984863] 2018-02-18 11:59:02,970 - INFO - musicbot.bot | In bot.py::MainThread(5952), line 1125 in on_ready:   Auto-Summon: Disabled
+[79.7048535346984863] 2018-02-18 11:59:02,970 - INFO - musicbot.bot | In bot.py::MainThread(5952), line 1126 in on_ready:   Auto-Playlist: Enabled
+[79.7148537635803223] 2018-02-18 11:59:02,980 - INFO - musicbot.bot | In bot.py::MainThread(5952), line 1127 in on_ready:   Auto-Pause: Disabled
+[79.7148537635803223] 2018-02-18 11:59:02,980 - INFO - musicbot.bot | In bot.py::MainThread(5952), line 1128 in on_ready:   Delete Messages: Enabled
+[79.7148537635803223] 2018-02-18 11:59:02,980 - INFO - musicbot.bot | In bot.py::MainThread(5952), line 1130 in on_ready:     Delete Invoking: Enabled
+[79.7148537635803223] 2018-02-18 11:59:02,980 - INFO - musicbot.bot | In bot.py::MainThread(5952), line 1131 in on_ready:   Debug Mode: Enabled
+[79.7248537540435791] 2018-02-18 11:59:02,990 - INFO - musicbot.bot | In bot.py::MainThread(5952), line 1132 in on_ready:   Downloaded songs will be deleted
+[79.7248537540435791] 2018-02-18 11:59:02,990 - INFO - musicbot.bot | In bot.py::MainThread(5952), line 1134 in on_ready:   Status message: Music
+[79.7248537540435791] 2018-02-18 11:59:02,990 - INFO - musicbot.bot | In bot.py::MainThread(5952), line 267 in _join_startup_channels: Attempting to join bijs/🎶 ᗩᑌᗪITOᖇIᑌᗰ 3🎧
+[79.7348537445068359] 2018-02-18 11:59:03,000 - DEBUG - musicbot.bot | In bot.py::MainThread(5952), line 437 in get_voice_client: Connection attempt 1 to 🎶 ᗩᑌᗪITOᖇIᑌᗰ 3🎧
+[79.7348537445068359] 2018-02-18 11:59:03,000 - VOICEDEBUG - musicbot.bot | In bot.py::MainThread(5952), line 376 in join_voice_channel: (join_voice_channel) creating futures
+[79.7348537445068359] 2018-02-18 11:59:03,000 - VOICEDEBUG - musicbot.bot | In bot.py::MainThread(5952), line 382 in join_voice_channel: (join_voice_channel) setting voice state
+[79.7348537445068359] 2018-02-18 11:59:03,000 - VOICEDEBUG - musicbot.bot | In bot.py::MainThread(5952), line 385 in join_voice_channel: (join_voice_channel) waiting for session id
+[79.8348538875579834] 2018-02-18 11:59:03,100 - VOICEDEBUG - musicbot.bot | In bot.py::MainThread(5952), line 2564 in on_voice_state_update: Voice state update for 374526814220976129/Bonlicious#3934 on bijs/🎶 ᗩᑌᗪITOᖇIᑌᗰ 2🎧 -> [CONNECT]
+[79.9748539924621582] 2018-02-18 11:59:03,240 - VOICEDEBUG - musicbot.bot | In bot.py::MainThread(5952), line 2564 in on_voice_state_update: Voice state update for 380617521709187072/RegisBot#6361 on bijs/🎶 ᗩᑌᗪITOᖇIᑌᗰ 3🎧 -> [JOIN, CONNECT]
+[79.9948542118072510] 2018-02-18 11:59:03,260 - INFO - musicbot.bot | In bot.py::MainThread(5952), line 2575 in on_voice_state_update: 380617521709187072/RegisBot#6361 has joined bijs/🎶 ᗩᑌᗪITOᖇIᑌᗰ 3🎧
+[80.0048542022705078] 2018-02-18 11:59:03,270 - VOICEDEBUG - musicbot.bot | In bot.py::MainThread(5952), line 389 in join_voice_channel: (join_voice_channel) waiting for voice data
+[80.0268547534942627] 2018-02-18 11:59:03,292 - VOICEDEBUG - musicbot.bot | In bot.py::MainThread(5952), line 2564 in on_voice_state_update: Voice state update for 413625744946757642/Mea#6291 on bijs/🎶 ᗩᑌᗪITOᖇIᑌᗰ 4🎧 -> [CONNECT]
+[80.0948586463928223] 2018-02-18 11:59:03,360 - VOICEDEBUG - musicbot.bot | In bot.py::MainThread(5952), line 403 in join_voice_channel: (join_voice_channel) connecting...
+[80.4708657264709473] 2018-02-18 11:59:03,736 - VOICEDEBUG - musicbot.bot | In bot.py::MainThread(5952), line 415 in join_voice_channel: (join_voice_channel) connection successful
+[80.4708657264709473] 2018-02-18 11:59:03,736 - DEBUG - musicbot.bot | In bot.py::MainThread(5952), line 463 in get_voice_client: Connected in 0.7s
+[80.4708657264709473] 2018-02-18 11:59:03,736 - INFO - musicbot.bot | In bot.py::MainThread(5952), line 464 in get_voice_client: Connected to bijs/🎶 ᗩᑌᗪITOᖇIᑌᗰ 3🎧
+[80.5408658981323242] 2018-02-18 11:59:03,806 - DEBUG - musicbot.bot | In bot.py::MainThread(5952), line 805 in deserialize_queue: Deserializing queue for 299083773574905857
+[81.7789125442504883] 2018-02-18 11:59:05,044 - DEBUG - musicbot.bot | In bot.py::MainThread(5952), line 555 in get_player: Created player via deserialization for server 299083773574905857 with 1 entries
+[81.8239140510559082] 2018-02-18 11:59:05,089 - INFO - musicbot.bot | In bot.py::MainThread(5952), line 283 in _join_startup_channels: Joined bijs/🎶 ᗩᑌᗪITOᖇIᑌᗰ 3🎧
+[81.8249142169952393] 2018-02-18 11:59:05,090 - VOICEDEBUG - musicbot.player | In player.py::MainThread(5952), line 311 in websocket_check: Starting websocket check loop for bijs
+[81.8299143314361572] 2018-02-18 11:59:05,095 - FFMPEG - musicbot.player | In player.py::MainThread(5952), line 268 in _play: Creating player with options: -nostdin -vn audio_cache\youtube-RUncAPJjC-Q-Lucian_-_Do_My_Thing_ft._Philosofie.webm
+[85.9969463348388672] 2018-02-18 11:59:09,262 - DEBUG - musicbot.bot | In bot.py::MainThread(5952), line 781 in serialize_queue: Serializing queue for 299083773574905857
+[86.0069463253021240] 2018-02-18 11:59:09,272 - VOICEDEBUG - musicbot.bot | In bot.py::MainThread(5952), line 2564 in on_voice_state_update: Voice state update for 334356273405493249/DELICIOUS#5285 on bijs/🎶 ᗩᑌᗪITOᖇIᑌᗰ 🎧 -> [CONNECT]
+[87.9349532127380371] 2018-02-18 11:59:11,200 - FFMPEG - musicbot.player | In player.py::Thread-7 stderr reader(6304), line 409 in filter_stderr: Data from ffmpeg: b'audio_cache\\youtube-RUncAPJjC-Q-Lucian_-_Do_My_Thing_ft._Philosofie.webm: No such file or directory\r\n'
+[88.5399711132049561] 2018-02-18 11:59:11,805 - DEBUG - musicbot.player | In player.py::MainThread(5952), line 197 in _playback_finished: Deleting file: audio_cache\youtube-RUncAPJjC-Q-Lucian_-_Do_My_Thing_ft._Philosofie.webm
+[88.5429713726043701] 2018-02-18 11:59:11,808 - ERROR - musicbot.player | In player.py::MainThread(5952), line 227 in _delete_file: Error trying to delete audio_cache\youtube-RUncAPJjC-Q-Lucian_-_Do_My_Thing_ft._Philosofie.webm
+Traceback (most recent call last):
+  File "C:\Users\Alan\Desktop\RS\MusicBot - RegisBot\musicbot\player.py", line 219, in _delete_file
+    os.unlink(filename)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'audio_cache\\youtube-RUncAPJjC-Q-Lucian_-_Do_My_Thing_ft._Philosofie.webm'
+[91.1170856952667236] 2018-02-18 11:59:14,383 - INFO - musicbot.entry | In entry.py::MainThread(5952), line 219 in _really_download: Download started: https://www.youtube.com/watch?v=MelUc84FqRY
+[99.8764259815216064] 2018-02-18 11:59:23,142 - INFO - musicbot.entry | In entry.py::MainThread(5952), line 229 in _really_download: Download complete: https://www.youtube.com/watch?v=MelUc84FqRY
+[99.8764259815216064] 2018-02-18 11:59:23,142 - FFMPEG - musicbot.player | In player.py::MainThread(5952), line 268 in _play: Creating player with options: -nostdin -vn audio_cache\youtube-MelUc84FqRY-BEST_MUSIC_MIX_2017_1H_Gaming_Music_Trap_EDM_Dubstep.webm
+[99.8964259624481201] 2018-02-18 11:59:23,162 - DEBUG - musicbot.bot | In bot.py::MainThread(5952), line 781 in serialize_queue: Serializing queue for 299083773574905857
+[2578.5342462062835693] 2018-02-18 12:40:41,800 - VOICEDEBUG - musicbot.bot | In bot.py::MainThread(5952), line 2564 in on_voice_state_update: Voice state update for 167187444083458048/Rëgîš#6434 on bijs/🎶 ᗩᑌᗪITOᖇIᑌᗰ 3🎧 -> [JOIN, CONNECT, MUTE]
+[2578.5342462062835693] 2018-02-18 12:40:41,800 - INFO - musicbot.bot | In bot.py::MainThread(5952), line 2575 in on_voice_state_update: 167187444083458048/Rëgîš#6434 has joined bijs/🎶 ᗩᑌᗪITOᖇIᑌᗰ 3🎧
+[3739.1580555438995361] 2018-02-18 13:00:02,424 - DEBUG - musicbot.player | In player.py::MainThread(5952), line 197 in _playback_finished: Deleting file: audio_cache\youtube-MelUc84FqRY-BEST_MUSIC_MIX_2017_1H_Gaming_Music_Trap_EDM_Dubstep.webm
+[3742.3240768909454346] 2018-02-18 13:00:05,590 - INFO - musicbot.entry | In entry.py::MainThread(5952), line 219 in _really_download: Download started: https://www.youtube.com/watch?v=FBRUhIGYoyQ
+[3744.5540800094604492] 2018-02-18 13:00:07,820 - INFO - musicbot.entry | In entry.py::MainThread(5952), line 229 in _really_download: Download complete: https://www.youtube.com/watch?v=FBRUhIGYoyQ
+[3744.5640802383422852] 2018-02-18 13:00:07,830 - FFMPEG - musicbot.player | In player.py::MainThread(5952), line 268 in _play: Creating player with options: -nostdin -vn audio_cache\youtube-FBRUhIGYoyQ-Nightcore_-_Human.webm
+[3744.6240801811218262] 2018-02-18 13:00:07,890 - DEBUG - musicbot.bot | In bot.py::MainThread(5952), line 781 in serialize_queue: Serializing queue for 299083773574905857
+[3957.3271777629852295] 2018-02-18 13:03:40,593 - DEBUG - musicbot.player | In player.py::MainThread(5952), line 197 in _playback_finished: Deleting file: audio_cache\youtube-FBRUhIGYoyQ-Nightcore_-_Human.webm
+[3959.1981804370880127] 2018-02-18 13:03:42,464 - INFO - musicbot.entry | In entry.py::MainThread(5952), line 219 in _really_download: Download started: https://www.youtube.com/watch?v=k0lN5UnbGDA
+[3960.6781823635101318] 2018-02-18 13:03:43,944 - INFO - musicbot.entry | In entry.py::MainThread(5952), line 229 in _really_download: Download complete: https://www.youtube.com/watch?v=k0lN5UnbGDA
+[3961.1981830596923828] 2018-02-18 13:03:44,464 - FFMPEG - musicbot.player | In player.py::MainThread(5952), line 268 in _play: Creating player with options: -nostdin -vn audio_cache\youtube-k0lN5UnbGDA-Nightcore_-_Jericho.webm
+[3961.2081830501556396] 2018-02-18 13:03:44,474 - DEBUG - musicbot.bot | In bot.py::MainThread(5952), line 781 in serialize_queue: Serializing queue for 299083773574905857
+[4073.9877762794494629] 2018-02-18 13:05:37,253 - VOICEDEBUG - musicbot.bot | In bot.py::MainThread(5952), line 2564 in on_voice_state_update: Voice state update for 167187444083458048/Rëgîš#6434 on bijs/🎶 ᗩᑌᗪITOᖇIᑌᗰ 3🎧 -> [LEAVE, DISCONNECT]
+[4074.0077762603759766] 2018-02-18 13:05:37,273 - INFO - musicbot.bot | In bot.py::MainThread(5952), line 2575 in on_voice_state_update: 167187444083458048/Rëgîš#6434 has left bijs/🎶 ᗩᑌᗪITOᖇIᑌᗰ 3🎧
+[4231.7345438003540039] 2018-02-18 13:08:15,000 - DEBUG - musicbot.player | In player.py::MainThread(5952), line 197 in _playback_finished: Deleting file: audio_cache\youtube-k0lN5UnbGDA-Nightcore_-_Jericho.webm
+[4234.4495644569396973] 2018-02-18 13:08:17,715 - INFO - musicbot.entry | In entry.py::MainThread(5952), line 219 in _really_download: Download started: https://www.youtube.com/watch?v=omjDrPcRDLE
+[4236.5115675926208496] 2018-02-18 13:08:19,777 - INFO - musicbot.entry | In entry.py::MainThread(5952), line 229 in _really_download: Download complete: https://www.youtube.com/watch?v=omjDrPcRDLE
+[4236.5215675830841064] 2018-02-18 13:08:19,787 - FFMPEG - musicbot.player | In player.py::MainThread(5952), line 268 in _play: Creating player with options: -nostdin -vn audio_cache\youtube-omjDrPcRDLE-Adventure_Club_-_Firestorm_ft._Sara_Diamond_Abandoned_Remix.webm
+[4236.5575678348541260] 2018-02-18 13:08:19,823 - DEBUG - musicbot.bot | In bot.py::MainThread(5952), line 781 in serialize_queue: Serializing queue for 299083773574905857
+[4493.1398675441741943] 2018-02-18 13:12:36,405 - DEBUG - musicbot.player | In player.py::MainThread(5952), line 197 in _playback_finished: Deleting file: audio_cache\youtube-omjDrPcRDLE-Adventure_Club_-_Firestorm_ft._Sara_Diamond_Abandoned_Remix.webm
+[4495.2418704032897949] 2018-02-18 13:12:38,507 - INFO - musicbot.entry | In entry.py::MainThread(5952), line 219 in _really_download: Download started: https://www.youtube.com/watch?v=E5wEsq8OXkQ
+[4497.7168903350830078] 2018-02-18 13:12:40,982 - INFO - musicbot.entry | In entry.py::MainThread(5952), line 229 in _really_download: Download complete: https://www.youtube.com/watch?v=E5wEsq8OXkQ
+[4497.7268903255462646] 2018-02-18 13:12:40,992 - FFMPEG - musicbot.player | In player.py::MainThread(5952), line 268 in _play: Creating player with options: -nostdin -vn audio_cache\youtube-E5wEsq8OXkQ-Alyx_Ander_ft._Caroline_Pennell_-_Wake_Up_For_The_Night_Medii_BEAUZ_Remix.webm
+[4497.7468905448913574] 2018-02-18 13:12:41,012 - DEBUG - musicbot.bot | In bot.py::MainThread(5952), line 781 in serialize_queue: Serializing queue for 299083773574905857
+[4690.6538689136505127] 2018-02-18 13:15:53,919 - DEBUG - musicbot.player | In player.py::MainThread(5952), line 197 in _playback_finished: Deleting file: audio_cache\youtube-E5wEsq8OXkQ-Alyx_Ander_ft._Caroline_Pennell_-_Wake_Up_For_The_Night_Medii_BEAUZ_Remix.webm
+[4694.1408908367156982] 2018-02-18 13:15:57,406 - INFO - musicbot.entry | In entry.py::MainThread(5952), line 219 in _really_download: Download started: https://www.youtube.com/watch?v=gsN_SGK0jOA
+[4696.1798954010009766] 2018-02-18 13:15:59,445 - INFO - musicbot.entry | In entry.py::MainThread(5952), line 229 in _really_download: Download complete: https://www.youtube.com/watch?v=gsN_SGK0jOA
+[4696.1898953914642334] 2018-02-18 13:15:59,455 - FFMPEG - musicbot.player | In player.py::MainThread(5952), line 268 in _play: Creating player with options: -nostdin -vn audio_cache\youtube-gsN_SGK0jOA-Nightcore_-_I_m_Not_Alright.webm
+[4696.2198956012725830] 2018-02-18 13:15:59,485 - DEBUG - musicbot.bot | In bot.py::MainThread(5952), line 781 in serialize_queue: Serializing queue for 299083773574905857
+[4920.5230755805969238] 2018-02-18 13:19:43,789 - DEBUG - musicbot.player | In player.py::MainThread(5952), line 197 in _playback_finished: Deleting file: audio_cache\youtube-gsN_SGK0jOA-Nightcore_-_I_m_Not_Alright.webm
+[4924.7290985584259033] 2018-02-18 13:19:47,995 - INFO - musicbot.entry | In entry.py::MainThread(5952), line 219 in _really_download: Download started: https://www.youtube.com/watch?v=KWjWpmtEEpI
+[4927.2631075382232666] 2018-02-18 13:19:50,529 - INFO - musicbot.entry | In entry.py::MainThread(5952), line 229 in _really_download: Download complete: https://www.youtube.com/watch?v=KWjWpmtEEpI
+[4927.2731075286865234] 2018-02-18 13:19:50,539 - FFMPEG - musicbot.player | In player.py::MainThread(5952), line 268 in _play: Creating player with options: -nostdin -vn audio_cache\youtube-KWjWpmtEEpI-Nightcore_-_Earthquake.webm
+[4927.3031075000762939] 2018-02-18 13:19:50,569 - DEBUG - musicbot.bot | In bot.py::MainThread(5952), line 781 in serialize_queue: Serializing queue for 299083773574905857
+[5090.2279388904571533] 2018-02-18 13:22:33,493 - DEBUG - musicbot.player | In player.py::MainThread(5952), line 197 in _playback_finished: Deleting file: audio_cache\youtube-KWjWpmtEEpI-Nightcore_-_Earthquake.webm
+[5093.2979588508605957] 2018-02-18 13:22:36,563 - INFO - musicbot.entry | In entry.py::MainThread(5952), line 219 in _really_download: Download started: https://www.youtube.com/watch?v=lV_a0y3bWi8
+[5099.0279831886291504] 2018-02-18 13:22:42,293 - INFO - musicbot.entry | In entry.py::MainThread(5952), line 229 in _really_download: Download complete: https://www.youtube.com/watch?v=lV_a0y3bWi8
+[5099.0379831790924072] 2018-02-18 13:22:42,303 - FFMPEG - musicbot.player | In player.py::MainThread(5952), line 268 in _play: Creating player with options: -nostdin -vn audio_cache\youtube-lV_a0y3bWi8-Nightstep_-_Million_Special_ZillaStorm_30_Minute_Mix.webm
+[5099.0479831695556641] 2018-02-18 13:22:42,313 - DEBUG - musicbot.bot | In bot.py::MainThread(5952), line 781 in serialize_queue: Serializing queue for 299083773574905857
+[7169.5894472599029541] 2018-02-18 13:57:12,855 - DEBUG - musicbot.player | In player.py::MainThread(5952), line 197 in _playback_finished: Deleting file: audio_cache\youtube-lV_a0y3bWi8-Nightstep_-_Million_Special_ZillaStorm_30_Minute_Mix.webm
+[7172.0484569072723389] 2018-02-18 13:57:15,314 - INFO - musicbot.entry | In entry.py::MainThread(5952), line 219 in _really_download: Download started: https://www.youtube.com/watch?v=luLOvEd6u94
+[7173.4694588184356689] 2018-02-18 13:57:16,735 - INFO - musicbot.entry | In entry.py::MainThread(5952), line 229 in _really_download: Download complete: https://www.youtube.com/watch?v=luLOvEd6u94
+[7174.0394597053527832] 2018-02-18 13:57:17,305 - FFMPEG - musicbot.player | In player.py::MainThread(5952), line 268 in _play: Creating player with options: -nostdin -vn audio_cache\youtube-luLOvEd6u94-Party_Thieves_Jaykode_-_Poppy_Seeds_feat._Neon_Hitch.webm
+[7174.0394597053527832] 2018-02-18 13:57:17,305 - DEBUG - musicbot.bot | In bot.py::MainThread(5952), line 781 in serialize_queue: Serializing queue for 299083773574905857
+[7352.1823608875274658] 2018-02-18 14:00:15,448 - DEBUG - musicbot.player | In player.py::MainThread(5952), line 197 in _playback_finished: Deleting file: audio_cache\youtube-luLOvEd6u94-Party_Thieves_Jaykode_-_Poppy_Seeds_feat._Neon_Hitch.webm
+[7354.3043639659881592] 2018-02-18 14:00:17,570 - INFO - musicbot.entry | In entry.py::MainThread(5952), line 219 in _really_download: Download started: https://www.youtube.com/watch?v=JeyKxtgTyRw
+[7355.6583824157714844] 2018-02-18 14:00:18,924 - INFO - musicbot.entry | In entry.py::MainThread(5952), line 229 in _really_download: Download complete: https://www.youtube.com/watch?v=JeyKxtgTyRw
+[7356.2983832359313965] 2018-02-18 14:00:19,564 - FFMPEG - musicbot.player | In player.py::MainThread(5952), line 268 in _play: Creating player with options: -nostdin -vn audio_cache\youtube-JeyKxtgTyRw-Kozah_-_Like_We_Do_feat._Anuka.webm
+[7356.2983832359313965] 2018-02-18 14:00:19,564 - DEBUG - musicbot.bot | In bot.py::MainThread(5952), line 781 in serialize_queue: Serializing queue for 299083773574905857
+[7555.8193688392639160] 2018-02-18 14:03:39,085 - DEBUG - musicbot.player | In player.py::MainThread(5952), line 197 in _playback_finished: Deleting file: audio_cache\youtube-JeyKxtgTyRw-Kozah_-_Like_We_Do_feat._Anuka.webm
+[7558.1803722381591797] 2018-02-18 14:03:41,446 - INFO - musicbot.entry | In entry.py::MainThread(5952), line 219 in _really_download: Download started: https://www.youtube.com/watch?v=0wvg1v7faic
+[7560.7153923511505127] 2018-02-18 14:03:43,981 - INFO - musicbot.entry | In entry.py::MainThread(5952), line 229 in _really_download: Download complete: https://www.youtube.com/watch?v=0wvg1v7faic
+[7560.7153923511505127] 2018-02-18 14:03:43,981 - FFMPEG - musicbot.player | In player.py::MainThread(5952), line 268 in _play: Creating player with options: -nostdin -vn audio_cache\youtube-0wvg1v7faic-Duelle_-_Show_You.webm
+[7560.7353923320770264] 2018-02-18 14:03:44,001 - DEBUG - musicbot.bot | In bot.py::MainThread(5952), line 781 in serialize_queue: Serializing queue for 299083773574905857
+[7773.0024614334106445] 2018-02-18 14:07:16,268 - DEBUG - musicbot.player | In player.py::MainThread(5952), line 197 in _playback_finished: Deleting file: audio_cache\youtube-0wvg1v7faic-Duelle_-_Show_You.webm
+[7775.1124789714813232] 2018-02-18 14:07:18,378 - INFO - musicbot.entry | In entry.py::MainThread(5952), line 219 in _really_download: Download started: https://www.youtube.com/watch?v=T5FANT-EZKY
+[7776.6374843120574951] 2018-02-18 14:07:19,903 - INFO - musicbot.entry | In entry.py::MainThread(5952), line 229 in _really_download: Download complete: https://www.youtube.com/watch?v=T5FANT-EZKY
+[7777.1074848175048828] 2018-02-18 14:07:20,373 - FFMPEG - musicbot.player | In player.py::MainThread(5952), line 268 in _play: Creating player with options: -nostdin -vn audio_cache\youtube-T5FANT-EZKY-Toby_Romeo_-_Whatever_It_Takes.webm
+[7777.1174848079681396] 2018-02-18 14:07:20,383 - DEBUG - musicbot.bot | In bot.py::MainThread(5952), line 781 in serialize_queue: Serializing queue for 299083773574905857
+[7982.1955223083496094] 2018-02-18 14:10:45,461 - DEBUG - musicbot.player | In player.py::MainThread(5952), line 197 in _playback_finished: Deleting file: audio_cache\youtube-T5FANT-EZKY-Toby_Romeo_-_Whatever_It_Takes.webm
+[7985.0675275325775146] 2018-02-18 14:10:48,333 - INFO - musicbot.entry | In entry.py::MainThread(5952), line 219 in _really_download: Download started: https://www.youtube.com/watch?v=A-G93uqJtcg
+[7986.5585458278656006] 2018-02-18 14:10:49,824 - INFO - musicbot.entry | In entry.py::MainThread(5952), line 229 in _really_download: Download complete: https://www.youtube.com/watch?v=A-G93uqJtcg
+[7987.0685465335845947] 2018-02-18 14:10:50,334 - FFMPEG - musicbot.player | In player.py::MainThread(5952), line 268 in _play: Creating player with options: -nostdin -vn audio_cache\youtube-A-G93uqJtcg-Adventure_Club_-_Firestorm_ft._Sara_Diamond.webm
+[7987.0785465240478516] 2018-02-18 14:10:50,344 - DEBUG - musicbot.bot | In bot.py::MainThread(5952), line 781 in serialize_queue: Serializing queue for 299083773574905857
+[8194.3555457592010498] 2018-02-18 14:14:17,621 - DEBUG - musicbot.player | In player.py::MainThread(5952), line 197 in _playback_finished: Deleting file: audio_cache\youtube-A-G93uqJtcg-Adventure_Club_-_Firestorm_ft._Sara_Diamond.webm
+[8197.2625658512115479] 2018-02-18 14:14:20,528 - INFO - musicbot.entry | In entry.py::MainThread(5952), line 219 in _really_download: Download started: https://www.youtube.com/watch?v=-PKIzuIc4jA
+[8199.2725687026977539] 2018-02-18 14:14:22,538 - INFO - musicbot.entry | In entry.py::MainThread(5952), line 229 in _really_download: Download complete: https://www.youtube.com/watch?v=-PKIzuIc4jA
+[8199.2825686931610107] 2018-02-18 14:14:22,548 - FFMPEG - musicbot.player | In player.py::MainThread(5952), line 268 in _play: Creating player with options: -nostdin -vn audio_cache\youtube--PKIzuIc4jA-XYLO_-_Alive.webm
+[8199.2925686836242676] 2018-02-18 14:14:22,558 - DEBUG - musicbot.bot | In bot.py::MainThread(5952), line 781 in serialize_queue: Serializing queue for 299083773574905857
+[8463.6179959774017334] 2018-02-18 14:18:46,883 - DEBUG - musicbot.player | In player.py::MainThread(5952), line 197 in _playback_finished: Deleting file: audio_cache\youtube--PKIzuIc4jA-XYLO_-_Alive.webm
+[8465.5730028152465820] 2018-02-18 14:18:48,838 - INFO - musicbot.entry | In entry.py::MainThread(5952), line 219 in _really_download: Download started: https://www.youtube.com/watch?v=B2Rv9jZaRvA
+[8466.8670182228088379] 2018-02-18 14:18:50,133 - INFO - musicbot.entry | In entry.py::MainThread(5952), line 229 in _really_download: Download complete: https://www.youtube.com/watch?v=B2Rv9jZaRvA
+[8467.5790216922760010] 2018-02-18 14:18:50,845 - FFMPEG - musicbot.player | In player.py::MainThread(5952), line 268 in _play: Creating player with options: -nostdin -vn audio_cache\youtube-B2Rv9jZaRvA-Nightcore_-_Love_Me_Like_You_Do.webm
+[8467.5790216922760010] 2018-02-18 14:18:50,845 - DEBUG - musicbot.bot | In bot.py::MainThread(5952), line 781 in serialize_queue: Serializing queue for 299083773574905857
+[8668.6390981674194336] 2018-02-18 14:22:11,905 - DEBUG - musicbot.player | In player.py::MainThread(5952), line 197 in _playback_finished: Deleting file: audio_cache\youtube-B2Rv9jZaRvA-Nightcore_-_Love_Me_Like_You_Do.webm
+[8670.6111009120941162] 2018-02-18 14:22:13,877 - INFO - musicbot.entry | In entry.py::MainThread(5952), line 219 in _really_download: Download started: https://www.youtube.com/watch?v=H5PEtaqwAYQ
+[8672.2031195163726807] 2018-02-18 14:22:15,469 - INFO - musicbot.entry | In entry.py::MainThread(5952), line 229 in _really_download: Download complete: https://www.youtube.com/watch?v=H5PEtaqwAYQ
+[8672.6231200695037842] 2018-02-18 14:22:15,889 - FFMPEG - musicbot.player | In player.py::MainThread(5952), line 268 in _play: Creating player with options: -nostdin -vn audio_cache\youtube-H5PEtaqwAYQ-Nightcore_-_Can_t_Stop_Running.webm
+[8672.6331200599670410] 2018-02-18 14:22:15,899 - DEBUG - musicbot.bot | In bot.py::MainThread(5952), line 781 in serialize_queue: Serializing queue for 299083773574905857
+[8835.7389330863952637] 2018-02-18 14:24:59,004 - DEBUG - musicbot.player | In player.py::MainThread(5952), line 197 in _playback_finished: Deleting file: audio_cache\youtube-H5PEtaqwAYQ-Nightcore_-_Can_t_Stop_Running.webm
+[8837.8439524173736572] 2018-02-18 14:25:01,109 - INFO - musicbot.entry | In entry.py::MainThread(5952), line 219 in _really_download: Download started: https://www.youtube.com/watch?v=PvYfHVpnSTU
+[8839.1139543056488037] 2018-02-18 14:25:02,379 - INFO - musicbot.entry | In entry.py::MainThread(5952), line 229 in _really_download: Download complete: https://www.youtube.com/watch?v=PvYfHVpnSTU
+[8839.8439552783966064] 2018-02-18 14:25:03,109 - FFMPEG - musicbot.player | In player.py::MainThread(5952), line 268 in _play: Creating player with options: -nostdin -vn audio_cache\youtube-PvYfHVpnSTU-Nightcore_-_Beginning_Again.webm
+[8839.8539552688598633] 2018-02-18 14:25:03,119 - DEBUG - musicbot.bot | In bot.py::MainThread(5952), line 781 in serialize_queue: Serializing queue for 299083773574905857
+[9021.3158833980560303] 2018-02-18 14:28:04,581 - DEBUG - musicbot.player | In player.py::MainThread(5952), line 197 in _playback_finished: Deleting file: audio_cache\youtube-PvYfHVpnSTU-Nightcore_-_Beginning_Again.webm
+[9023.2768874168395996] 2018-02-18 14:28:06,542 - INFO - musicbot.entry | In entry.py::MainThread(5952), line 219 in _really_download: Download started: https://www.youtube.com/watch?v=ROfSbm1_Vmo
+[9024.6668891906738281] 2018-02-18 14:28:07,932 - INFO - musicbot.entry | In entry.py::MainThread(5952), line 229 in _really_download: Download complete: https://www.youtube.com/watch?v=ROfSbm1_Vmo
+[9025.2668900489807129] 2018-02-18 14:28:08,532 - FFMPEG - musicbot.player | In player.py::MainThread(5952), line 268 in _play: Creating player with options: -nostdin -vn audio_cache\youtube-ROfSbm1_Vmo-Clips_X_Ahoy_Egzod_-_Everything_ft._KLA.webm
+[9025.2668900489807129] 2018-02-18 14:28:08,532 - DEBUG - musicbot.bot | In bot.py::MainThread(5952), line 781 in serialize_queue: Serializing queue for 299083773574905857
+[9211.5758638381958008] 2018-02-18 14:31:14,841 - DEBUG - musicbot.player | In player.py::MainThread(5952), line 197 in _playback_finished: Deleting file: audio_cache\youtube-ROfSbm1_Vmo-Clips_X_Ahoy_Egzod_-_Everything_ft._KLA.webm
+[9214.4108736515045166] 2018-02-18 14:31:17,676 - INFO - musicbot.entry | In entry.py::MainThread(5952), line 219 in _really_download: Download started: https://www.youtube.com/watch?v=vQMSdPgAj6Q
+[9216.3178813457489014] 2018-02-18 14:31:19,583 - INFO - musicbot.entry | In entry.py::MainThread(5952), line 229 in _really_download: Download complete: https://www.youtube.com/watch?v=vQMSdPgAj6Q
+[9216.4078865051269531] 2018-02-18 14:31:19,673 - FFMPEG - musicbot.player | In player.py::MainThread(5952), line 268 in _play: Creating player with options: -nostdin -vn audio_cache\youtube-vQMSdPgAj6Q-Nightcore_-_Back_Into_the_Rain.webm
+[9216.4238872528076172] 2018-02-18 14:31:19,689 - DEBUG - musicbot.bot | In bot.py::MainThread(5952), line 781 in serialize_queue: Serializing queue for 299083773574905857
+[9386.8077433109283447] 2018-02-18 14:34:10,073 - DEBUG - musicbot.player | In player.py::MainThread(5952), line 197 in _playback_finished: Deleting file: audio_cache\youtube-vQMSdPgAj6Q-Nightcore_-_Back_Into_the_Rain.webm
+[9388.8657553195953369] 2018-02-18 14:34:12,131 - INFO - musicbot.entry | In entry.py::MainThread(5952), line 219 in _really_download: Download started: https://www.youtube.com/watch?v=mYM2efYY2Pg
+[9390.2627639770507812] 2018-02-18 14:34:13,528 - INFO - musicbot.entry | In entry.py::MainThread(5952), line 229 in _really_download: Download complete: https://www.youtube.com/watch?v=mYM2efYY2Pg
+[9390.8727648258209229] 2018-02-18 14:34:14,138 - FFMPEG - musicbot.player | In player.py::MainThread(5952), line 268 in _play: Creating player with options: -nostdin -vn audio_cache\youtube-mYM2efYY2Pg-Nightcore_-_Horizon.webm
+[9390.8727648258209229] 2018-02-18 14:34:14,138 - DEBUG - musicbot.bot | In bot.py::MainThread(5952), line 781 in serialize_queue: Serializing queue for 299083773574905857
+[9570.9226484298706055] 2018-02-18 14:37:14,188 - DEBUG - musicbot.player | In player.py::MainThread(5952), line 197 in _playback_finished: Deleting file: audio_cache\youtube-mYM2efYY2Pg-Nightcore_-_Horizon.webm
+[9573.8256688117980957] 2018-02-18 14:37:17,091 - INFO - musicbot.entry | In entry.py::MainThread(5952), line 219 in _really_download: Download started: https://www.youtube.com/watch?v=tyaPqW0bO5M
+[9575.6456713676452637] 2018-02-18 14:37:18,911 - INFO - musicbot.entry | In entry.py::MainThread(5952), line 229 in _really_download: Download complete: https://www.youtube.com/watch?v=tyaPqW0bO5M
+[9575.8456716537475586] 2018-02-18 14:37:19,111 - FFMPEG - musicbot.player | In player.py::MainThread(5952), line 268 in _play: Creating player with options: -nostdin -vn audio_cache\youtube-tyaPqW0bO5M-Nightcore_-_Rather_Be.webm
+[9575.8456716537475586] 2018-02-18 14:37:19,111 - DEBUG - musicbot.bot | In bot.py::MainThread(5952), line 781 in serialize_queue: Serializing queue for 299083773574905857
+[9770.9726314544677734] 2018-02-18 14:40:34,238 - DEBUG - musicbot.player | In player.py::MainThread(5952), line 197 in _playback_finished: Deleting file: audio_cache\youtube-tyaPqW0bO5M-Nightcore_-_Rather_Be.webm
+[9773.0366508960723877] 2018-02-18 14:40:36,302 - INFO - musicbot.entry | In entry.py::MainThread(5952), line 219 in _really_download: Download started: https://www.youtube.com/watch?v=zRbZFjNCr_g
+[9774.5176529884338379] 2018-02-18 14:40:37,783 - INFO - musicbot.entry | In entry.py::MainThread(5952), line 229 in _really_download: Download complete: https://www.youtube.com/watch?v=zRbZFjNCr_g
+[9775.0296549797058105] 2018-02-18 14:40:38,295 - FFMPEG - musicbot.player | In player.py::MainThread(5952), line 268 in _play: Creating player with options: -nostdin -vn audio_cache\youtube-zRbZFjNCr_g-SCRVP_Evix_-_Gravitate_Ft._Duelle.webm
+[9775.0296549797058105] 2018-02-18 14:40:38,295 - DEBUG - musicbot.bot | In bot.py::MainThread(5952), line 781 in serialize_queue: Serializing queue for 299083773574905857
+[9976.3586609363555908] 2018-02-18 14:43:59,624 - DEBUG - musicbot.player | In player.py::MainThread(5952), line 197 in _playback_finished: Deleting file: audio_cache\youtube-zRbZFjNCr_g-SCRVP_Evix_-_Gravitate_Ft._Duelle.webm
+[9978.5926804542541504] 2018-02-18 14:44:01,858 - INFO - musicbot.entry | In entry.py::MainThread(5952), line 219 in _really_download: Download started: https://www.youtube.com/watch?v=BYZMEq4KEsk
+[9979.9426825046539307] 2018-02-18 14:44:03,208 - INFO - musicbot.entry | In entry.py::MainThread(5952), line 229 in _really_download: Download complete: https://www.youtube.com/watch?v=BYZMEq4KEsk
+[9980.5946846008300781] 2018-02-18 14:44:03,860 - FFMPEG - musicbot.player | In player.py::MainThread(5952), line 268 in _play: Creating player with options: -nostdin -vn audio_cache\youtube-BYZMEq4KEsk-Nightcore_-_Life_is_Beautiful.webm
+[9980.5946846008300781] 2018-02-18 14:44:03,860 - DEBUG - musicbot.bot | In bot.py::MainThread(5952), line 781 in serialize_queue: Serializing queue for 299083773574905857
+[10166.7156219482421875] 2018-02-18 14:47:09,981 - DEBUG - musicbot.player | In player.py::MainThread(5952), line 197 in _playback_finished: Deleting file: audio_cache\youtube-BYZMEq4KEsk-Nightcore_-_Life_is_Beautiful.webm
+[10169.3996415138244629] 2018-02-18 14:47:12,665 - INFO - musicbot.entry | In entry.py::MainThread(5952), line 219 in _really_download: Download started: https://www.youtube.com/watch?v=RjREUiafmsM
+[10171.1116440296173096] 2018-02-18 14:47:14,377 - INFO - musicbot.entry | In entry.py::MainThread(5952), line 229 in _really_download: Download complete: https://www.youtube.com/watch?v=RjREUiafmsM
+[10171.3936457633972168] 2018-02-18 14:47:14,659 - FFMPEG - musicbot.player | In player.py::MainThread(5952), line 268 in _play: Creating player with options: -nostdin -vn audio_cache\youtube-RjREUiafmsM-Unlike_Pluto_-_Let_It_Bleed_ft._Cristina_Gatti_Official_Lyric_Video.webm
+[10171.4036457538604736] 2018-02-18 14:47:14,669 - DEBUG - musicbot.bot | In bot.py::MainThread(5952), line 781 in serialize_queue: Serializing queue for 299083773574905857
+[10374.9027378559112549] 2018-02-18 14:50:38,168 - DEBUG - musicbot.player | In player.py::MainThread(5952), line 197 in _playback_finished: Deleting file: audio_cache\youtube-RjREUiafmsM-Unlike_Pluto_-_Let_It_Bleed_ft._Cristina_Gatti_Official_Lyric_Video.webm
+[10376.9557421207427979] 2018-02-18 14:50:40,221 - INFO - musicbot.entry | In entry.py::MainThread(5952), line 219 in _really_download: Download started: https://www.youtube.com/watch?v=RuSJ7e_8XlE
+[10378.5087611675262451] 2018-02-18 14:50:41,774 - INFO - musicbot.entry | In entry.py::MainThread(5952), line 229 in _really_download: Download complete: https://www.youtube.com/watch?v=RuSJ7e_8XlE
+[10378.9697618484497070] 2018-02-18 14:50:42,235 - FFMPEG - musicbot.player | In player.py::MainThread(5952), line 268 in _play: Creating player with options: -nostdin -vn audio_cache\youtube-RuSJ7e_8XlE-Aruna_-_Start_A_Fire_Inukshuk_Future_Flip.webm
+[10378.9797618389129639] 2018-02-18 14:50:42,245 - DEBUG - musicbot.bot | In bot.py::MainThread(5952), line 781 in serialize_queue: Serializing queue for 299083773574905857
+[10582.5797777175903320] 2018-02-18 14:54:05,845 - DEBUG - musicbot.player | In player.py::MainThread(5952), line 197 in _playback_finished: Deleting file: audio_cache\youtube-RuSJ7e_8XlE-Aruna_-_Start_A_Fire_Inukshuk_Future_Flip.webm
+[10584.4377875328063965] 2018-02-18 14:54:07,703 - INFO - musicbot.entry | In entry.py::MainThread(5952), line 219 in _really_download: Download started: https://www.youtube.com/watch?v=4MOTkMqv-dM
+[10586.0307910442352295] 2018-02-18 14:54:09,296 - INFO - musicbot.entry | In entry.py::MainThread(5952), line 229 in _really_download: Download complete: https://www.youtube.com/watch?v=4MOTkMqv-dM
+[10586.4427928924560547] 2018-02-18 14:54:09,708 - FFMPEG - musicbot.player | In player.py::MainThread(5952), line 268 in _play: Creating player with options: -nostdin -vn audio_cache\youtube-4MOTkMqv-dM-Nightcore_-_Armor.webm
+[10586.4527928829193115] 2018-02-18 14:54:09,718 - DEBUG - musicbot.bot | In bot.py::MainThread(5952), line 781 in serialize_queue: Serializing queue for 299083773574905857
+[10766.8427155017852783] 2018-02-18 14:57:10,108 - DEBUG - musicbot.player | In player.py::MainThread(5952), line 197 in _playback_finished: Deleting file: audio_cache\youtube-4MOTkMqv-dM-Nightcore_-_Armor.webm
+[10768.8097343444824219] 2018-02-18 14:57:12,075 - INFO - musicbot.entry | In entry.py::MainThread(5952), line 219 in _really_download: Download started: https://www.youtube.com/watch?v=JdZ3ZuP8-eM
+[10770.1107361316680908] 2018-02-18 14:57:13,376 - INFO - musicbot.entry | In entry.py::MainThread(5952), line 229 in _really_download: Download complete: https://www.youtube.com/watch?v=JdZ3ZuP8-eM
+[10770.8107371330261230] 2018-02-18 14:57:14,076 - FFMPEG - musicbot.player | In player.py::MainThread(5952), line 268 in _play: Creating player with options: -nostdin -vn audio_cache\youtube-JdZ3ZuP8-eM-Nightcore_-_My_Demons.webm
+[10770.8207371234893799] 2018-02-18 14:57:14,086 - DEBUG - musicbot.bot | In bot.py::MainThread(5952), line 781 in serialize_queue: Serializing queue for 299083773574905857
+[10974.8777604103088379] 2018-02-18 15:00:38,143 - DEBUG - musicbot.player | In player.py::MainThread(5952), line 197 in _playback_finished: Deleting file: audio_cache\youtube-JdZ3ZuP8-eM-Nightcore_-_My_Demons.webm
+[10977.8437688350677490] 2018-02-18 15:00:41,109 - INFO - musicbot.entry | In entry.py::MainThread(5952), line 219 in _really_download: Download started: https://www.youtube.com/watch?v=ChMu1Au_nh0
+[10979.9247834682464600] 2018-02-18 15:00:43,190 - INFO - musicbot.entry | In entry.py::MainThread(5952), line 229 in _really_download: Download complete: https://www.youtube.com/watch?v=ChMu1Au_nh0
+[10979.9347834587097168] 2018-02-18 15:00:43,200 - FFMPEG - musicbot.player | In player.py::MainThread(5952), line 268 in _play: Creating player with options: -nostdin -vn audio_cache\youtube-ChMu1Au_nh0-Nightcore_-_Live_It_Up.webm
+[10979.9447834491729736] 2018-02-18 15:00:43,210 - DEBUG - musicbot.bot | In bot.py::MainThread(5952), line 781 in serialize_queue: Serializing queue for 299083773574905857
+[11131.0065283775329590] 2018-02-18 15:03:14,272 - DEBUG - musicbot.player | In player.py::MainThread(5952), line 197 in _playback_finished: Deleting file: audio_cache\youtube-ChMu1Au_nh0-Nightcore_-_Live_It_Up.webm
+[11134.2785494327545166] 2018-02-18 15:03:17,544 - INFO - musicbot.entry | In entry.py::MainThread(5952), line 219 in _really_download: Download started: https://www.youtube.com/watch?v=Ra-nf2V7wVQ
+[11136.4005534648895264] 2018-02-18 15:03:19,666 - INFO - musicbot.entry | In entry.py::MainThread(5952), line 229 in _really_download: Download complete: https://www.youtube.com/watch?v=Ra-nf2V7wVQ
+[11136.4105534553527832] 2018-02-18 15:03:19,676 - FFMPEG - musicbot.player | In player.py::MainThread(5952), line 268 in _play: Creating player with options: -nostdin -vn audio_cache\youtube-Ra-nf2V7wVQ-Nightcore_-_Break_Free.webm
+[11136.4205534458160400] 2018-02-18 15:03:19,686 - DEBUG - musicbot.bot | In bot.py::MainThread(5952), line 781 in serialize_queue: Serializing queue for 299083773574905857
+[11326.0025632381439209] 2018-02-18 15:06:29,268 - DEBUG - musicbot.player | In player.py::MainThread(5952), line 197 in _playback_finished: Deleting file: audio_cache\youtube-Ra-nf2V7wVQ-Nightcore_-_Break_Free.webm
+[11327.8845672607421875] 2018-02-18 15:06:31,150 - INFO - musicbot.entry | In entry.py::MainThread(5952), line 219 in _really_download: Download started: https://www.youtube.com/watch?v=HDaL0BN_zEY
+[11329.2425880432128906] 2018-02-18 15:06:32,508 - INFO - musicbot.entry | In entry.py::MainThread(5952), line 229 in _really_download: Download complete: https://www.youtube.com/watch?v=HDaL0BN_zEY
+[11329.9025888442993164] 2018-02-18 15:06:33,168 - FFMPEG - musicbot.player | In player.py::MainThread(5952), line 268 in _play: Creating player with options: -nostdin -vn audio_cache\youtube-HDaL0BN_zEY-Nightcore_-_Anchor.webm
+[11329.9125888347625732] 2018-02-18 15:06:33,178 - DEBUG - musicbot.bot | In bot.py::MainThread(5952), line 781 in serialize_queue: Serializing queue for 299083773574905857
+[11521.3225293159484863] 2018-02-18 15:09:44,588 - DEBUG - musicbot.player | In player.py::MainThread(5952), line 197 in _playback_finished: Deleting file: audio_cache\youtube-HDaL0BN_zEY-Nightcore_-_Anchor.webm
+[11523.9025490283966064] 2018-02-18 15:09:47,168 - INFO - musicbot.entry | In entry.py::MainThread(5952), line 219 in _really_download: Download started: https://www.youtube.com/watch?v=x9WpVoAC3tk
+[11525.5925514698028564] 2018-02-18 15:09:48,858 - INFO - musicbot.entry | In entry.py::MainThread(5952), line 229 in _really_download: Download complete: https://www.youtube.com/watch?v=x9WpVoAC3tk
+[11525.9045553207397461] 2018-02-18 15:09:49,170 - FFMPEG - musicbot.player | In player.py::MainThread(5952), line 268 in _play: Creating player with options: -nostdin -vn audio_cache\youtube-x9WpVoAC3tk-Nightcore_-_Try.webm
+[11525.9145553112030029] 2018-02-18 15:09:49,180 - DEBUG - musicbot.bot | In bot.py::MainThread(5952), line 781 in serialize_queue: Serializing queue for 299083773574905857
+[11720.2005128860473633] 2018-02-18 15:13:03,466 - DEBUG - musicbot.player | In player.py::MainThread(5952), line 197 in _playback_finished: Deleting file: audio_cache\youtube-x9WpVoAC3tk-Nightcore_-_Try.webm
+[11722.2805156707763672] 2018-02-18 15:13:05,546 - INFO - musicbot.entry | In entry.py::MainThread(5952), line 219 in _really_download: Download started: https://www.youtube.com/watch?v=Bx0Fan_U23A
+[11723.8755354881286621] 2018-02-18 15:13:07,141 - INFO - musicbot.entry | In entry.py::MainThread(5952), line 229 in _really_download: Download complete: https://www.youtube.com/watch?v=Bx0Fan_U23A
+[11724.2775373458862305] 2018-02-18 15:13:07,543 - FFMPEG - musicbot.player | In player.py::MainThread(5952), line 268 in _play: Creating player with options: -nostdin -vn audio_cache\youtube-Bx0Fan_U23A-Lido_-_Angel_JayKode_Remix.webm
+[11724.2775373458862305] 2018-02-18 15:13:07,543 - DEBUG - musicbot.bot | In bot.py::MainThread(5952), line 781 in serialize_queue: Serializing queue for 299083773574905857
+[11930.8006010055541992] 2018-02-18 15:16:34,066 - DEBUG - musicbot.player | In player.py::MainThread(5952), line 197 in _playback_finished: Deleting file: audio_cache\youtube-Bx0Fan_U23A-Lido_-_Angel_JayKode_Remix.webm
+[11933.0816042423248291] 2018-02-18 15:16:36,347 - INFO - musicbot.entry | In entry.py::MainThread(5952), line 219 in _really_download: Download started: https://www.youtube.com/watch?v=t_POhzZjzsg
+[11934.4306223392486572] 2018-02-18 15:16:37,696 - INFO - musicbot.entry | In entry.py::MainThread(5952), line 229 in _really_download: Download complete: https://www.youtube.com/watch?v=t_POhzZjzsg
+[11935.0816233158111572] 2018-02-18 15:16:38,347 - FFMPEG - musicbot.player | In player.py::MainThread(5952), line 268 in _play: Creating player with options: -nostdin -vn audio_cache\youtube-t_POhzZjzsg-I.Y.F.F.E_X_Thai_-_So_High_feat._Wiktoria_Kolosowa.webm
+[11935.0816233158111572] 2018-02-18 15:16:38,347 - DEBUG - musicbot.bot | In bot.py::MainThread(5952), line 781 in serialize_queue: Serializing queue for 299083773574905857
+[12117.5105996131896973] 2018-02-18 15:19:40,776 - DEBUG - musicbot.player | In player.py::MainThread(5952), line 197 in _playback_finished: Deleting file: audio_cache\youtube-t_POhzZjzsg-I.Y.F.F.E_X_Thai_-_So_High_feat._Wiktoria_Kolosowa.webm
+[12119.6356205940246582] 2018-02-18 15:19:42,901 - INFO - musicbot.entry | In entry.py::MainThread(5952), line 219 in _really_download: Download started: https://www.youtube.com/watch?v=CoWDA_7QTLs
+[12120.8256223201751709] 2018-02-18 15:19:44,091 - INFO - musicbot.entry | In entry.py::MainThread(5952), line 229 in _really_download: Download complete: https://www.youtube.com/watch?v=CoWDA_7QTLs
+[12121.6256234645843506] 2018-02-18 15:19:44,891 - FFMPEG - musicbot.player | In player.py::MainThread(5952), line 268 in _play: Creating player with options: -nostdin -vn audio_cache\youtube-CoWDA_7QTLs-Leat_eq_-_Journey.webm
+[12121.6256234645843506] 2018-02-18 15:19:44,891 - DEBUG - musicbot.bot | In bot.py::MainThread(5952), line 781 in serialize_queue: Serializing queue for 299083773574905857
+[12294.0064718723297119] 2018-02-18 15:22:37,272 - DEBUG - musicbot.player | In player.py::MainThread(5952), line 197 in _playback_finished: Deleting file: audio_cache\youtube-CoWDA_7QTLs-Leat_eq_-_Journey.webm
+[12295.9814927577972412] 2018-02-18 15:22:39,247 - INFO - musicbot.entry | In entry.py::MainThread(5952), line 219 in _really_download: Download started: https://www.youtube.com/watch?v=bQFSdK8mksg
+[12298.6024963855743408] 2018-02-18 15:22:41,868 - WARNING - musicbot.player | In player.py::MainThread(5952), line 252 in _play: Failed to get entry, retrying
+Traceback (most recent call last):
+  File "C:\Users\Alan\AppData\Local\Programs\Python\Python35-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 1896, in process_info
+    success = dl(filename, info_dict)
+  File "C:\Users\Alan\AppData\Local\Programs\Python\Python35-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 1835, in dl
+    return fd.download(name, info)
+  File "C:\Users\Alan\AppData\Local\Programs\Python\Python35-32\lib\site-packages\youtube_dl\downloader\common.py", line 364, in download
+    return self.real_download(filename, info_dict)
+  File "C:\Users\Alan\AppData\Local\Programs\Python\Python35-32\lib\site-packages\youtube_dl\downloader\http.py", line 340, in real_download
+    establish_connection()
+  File "C:\Users\Alan\AppData\Local\Programs\Python\Python35-32\lib\site-packages\youtube_dl\downloader\http.py", line 109, in establish_connection
+    ctx.data = self.ydl.urlopen(request)
+  File "C:\Users\Alan\AppData\Local\Programs\Python\Python35-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 2199, in urlopen
+    return self._opener.open(req, timeout=self._socket_timeout)
+  File "C:\Users\Alan\AppData\Local\Programs\Python\Python35-32\lib\urllib\request.py", line 465, in open
+    response = self._open(req, data)
+  File "C:\Users\Alan\AppData\Local\Programs\Python\Python35-32\lib\urllib\request.py", line 483, in _open
+    '_open', req)
+  File "C:\Users\Alan\AppData\Local\Programs\Python\Python35-32\lib\urllib\request.py", line 443, in _call_chain
+    result = func(*args)
+  File "C:\Users\Alan\AppData\Local\Programs\Python\Python35-32\lib\site-packages\youtube_dl\utils.py", line 1089, in https_open
+    req, **kwargs)
+  File "C:\Users\Alan\AppData\Local\Programs\Python\Python35-32\lib\urllib\request.py", line 1243, in do_open
+    r = h.getresponse()
+  File "C:\Users\Alan\AppData\Local\Programs\Python\Python35-32\lib\http\client.py", line 1174, in getresponse
+    response.begin()
+  File "C:\Users\Alan\AppData\Local\Programs\Python\Python35-32\lib\http\client.py", line 282, in begin
+    version, status, reason = self._read_status()
+  File "C:\Users\Alan\AppData\Local\Programs\Python\Python35-32\lib\http\client.py", line 243, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "C:\Users\Alan\AppData\Local\Programs\Python\Python35-32\lib\socket.py", line 575, in readinto
+    return self._sock.recv_into(b)
+  File "C:\Users\Alan\AppData\Local\Programs\Python\Python35-32\lib\ssl.py", line 924, in recv_into
+    return self.read(nbytes, buffer)
+  File "C:\Users\Alan\AppData\Local\Programs\Python\Python35-32\lib\ssl.py", line 786, in read
+    return self._sslobj.read(len, buffer)
+  File "C:\Users\Alan\AppData\Local\Programs\Python\Python35-32\lib\ssl.py", line 570, in read
+    v = self._sslobj.read(len, buffer)
+socket.timeout: The read operation timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Alan\Desktop\RS\MusicBot - RegisBot\musicbot\entry.py", line 224, in _really_download
+    result = await self.playlist.downloader.extract_info(self.playlist.loop, self.url, download=True)
+  File "C:\Users\Alan\Desktop\RS\MusicBot - RegisBot\musicbot\downloader.py", line 86, in extract_info
+    return await loop.run_in_executor(self.thread_pool, functools.partial(self.unsafe_ytdl.extract_info, *args, **kwargs))
+  File "C:\Users\Alan\AppData\Local\Programs\Python\Python35-32\lib\asyncio\futures.py", line 358, in __iter__
+    yield self  # This tells Task to wait for completion.
+  File "C:\Users\Alan\AppData\Local\Programs\Python\Python35-32\lib\asyncio\tasks.py", line 290, in _wakeup
+    future.result()
+  File "C:\Users\Alan\AppData\Local\Programs\Python\Python35-32\lib\asyncio\futures.py", line 274, in result
+    raise self._exception
+  File "C:\Users\Alan\AppData\Local\Programs\Python\Python35-32\lib\concurrent\futures\thread.py", line 55, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "C:\Users\Alan\AppData\Local\Programs\Python\Python35-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 796, in extract_info
+    return self.process_ie_result(ie_result, download, extra_info)
+  File "C:\Users\Alan\AppData\Local\Programs\Python\Python35-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 850, in process_ie_result
+    return self.process_video_result(ie_result, download=download)
+  File "C:\Users\Alan\AppData\Local\Programs\Python\Python35-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 1623, in process_video_result
+    self.process_info(new_info)
+  File "C:\Users\Alan\AppData\Local\Programs\Python\Python35-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 1898, in process_info
+    self.report_error('unable to download video data: %s' % error_to_compat_str(err))
+  File "C:\Users\Alan\AppData\Local\Programs\Python\Python35-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 613, in report_error
+    self.trouble(error_message, tb)
+  File "C:\Users\Alan\AppData\Local\Programs\Python\Python35-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 583, in trouble
+    raise DownloadError(message, exc_info)
+youtube_dl.utils.DownloadError: ERROR: unable to download video data: The read operation timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Alan\Desktop\RS\MusicBot - RegisBot\musicbot\player.py", line 249, in _play
+    entry = await self.playlist.get_next_entry()
+  File "C:\Users\Alan\Desktop\RS\MusicBot - RegisBot\musicbot\playlist.py", line 315, in get_next_entry
+    return await entry.get_ready_future()
+  File "C:\Users\Alan\AppData\Local\Programs\Python\Python35-32\lib\asyncio\futures.py", line 358, in __iter__
+    yield self  # This tells Task to wait for completion.
+  File "C:\Users\Alan\AppData\Local\Programs\Python\Python35-32\lib\asyncio\tasks.py", line 290, in _wakeup
+    future.result()
+  File "C:\Users\Alan\AppData\Local\Programs\Python\Python35-32\lib\asyncio\futures.py", line 274, in result
+    raise self._exception
+  File "C:\Users\Alan\Desktop\RS\MusicBot - RegisBot\musicbot\entry.py", line 205, in _download
+    await self._really_download()
+  File "C:\Users\Alan\Desktop\RS\MusicBot - RegisBot\musicbot\entry.py", line 227, in _really_download
+    raise ExtractionError(e)
+musicbot.exceptions.ExtractionError: ERROR: unable to download video data: The read operation timed out

@@ -1,0 +1,1942 @@
+# Entry removed Mon Jul 17 20:17:53 2017
+# Reason: ERROR: Signature extraction failed: Traceback (most recent call last):
+#            File "C:\Users\Alan\AppData\Local\Programs\Python\Python35-32\lib\site-packages\youtube_dl\extractor\youtube.py", line 1163, in _decrypt_signature
+#              video_id, player_url, s
+#            File "C:\Users\Alan\AppData\Local\Programs\Python\Python35-32\lib\site-packages\youtube_dl\extractor\youtube.py", line 1086, in _extract_signature_function
+#              cache_res = res(test_string)
+#            File "C:\Users\Alan\AppData\Local\Programs\Python\Python35-32\lib\site-packages\youtube_dl\extractor\youtube.py", line 1139, in <lambda>
+#              return lambda s: initial_function([s])
+#            File "C:\Users\Alan\AppData\Local\Programs\Python\Python35-32\lib\site-packages\youtube_dl\jsinterp.py", line 258, in resf
+#              res, abort = self.interpret_statement(stmt, local_vars)
+#            File "C:\Users\Alan\AppData\Local\Programs\Python\Python35-32\lib\site-packages\youtube_dl\jsinterp.py", line 56, in interpret_statement
+#              v = self.interpret_expression(expr, local_vars, allow_recursion)
+#            File "C:\Users\Alan\AppData\Local\Programs\Python\Python35-32\lib\site-packages\youtube_dl\jsinterp.py", line 182, in interpret_expression
+#              return obj[member](argvals)
+#          KeyError: 'qe'
+#           (caused by KeyError('qe',))
+https://www.youtube.com/watch?v=0RU2b5gOPeA
+
+################################
+
+# Entry removed Mon Jul 17 20:34:31 2017
+# Reason: ERROR: vKJBv4kmwGY: YouTube said: This video has been removed by the user.
+https://www.youtube.com/watch?v=vKJBv4kmwGY
+
+################################
+
+# Entry removed Mon Jul 17 21:04:30 2017
+# Reason: ERROR: Unable to download webpage: HTTP Error 502: Bad Gateway (caused by <HTTPError 502: 'Bad Gateway'>)
+https://www.youtube.com/watch?v=bp6DtlAtdo0
+
+################################
+
+# Entry removed Mon Jul 17 21:04:30 2017
+# Reason: ERROR: Unable to download webpage: HTTP Error 502: Bad Gateway (caused by <HTTPError 502: 'Bad Gateway'>)
+https://www.youtube.com/watch?v=HmXbr4DyDbA
+
+################################
+
+# Entry removed Mon Jul 17 21:04:31 2017
+# Reason: ERROR: Unable to download webpage: HTTP Error 502: Bad Gateway (caused by <HTTPError 502: 'Bad Gateway'>)
+https://www.youtube.com/watch?v=wAswsT3iivY
+
+################################
+
+# Entry removed Mon Jul 17 21:04:31 2017
+# Reason: ERROR: Unable to download webpage: HTTP Error 502: Bad Gateway (caused by <HTTPError 502: 'Bad Gateway'>)
+https://www.youtube.com/watch?v=4UY3tV4-fB0
+
+################################
+
+# Entry removed Mon Jul 17 21:04:38 2017
+# Reason: ERROR: Unable to download webpage: HTTP Error 502: Bad Gateway (caused by <HTTPError 502: 'Bad Gateway'>)
+https://www.youtube.com/watch?v=24PzfmFzWcE
+
+################################
+
+# Entry removed Mon Jul 17 21:04:38 2017
+# Reason: ERROR: Unable to download webpage: HTTP Error 502: Bad Gateway (caused by <HTTPError 502: 'Bad Gateway'>)
+https://www.youtube.com/watch?v=eHGlbaWdc9c
+
+################################
+
+# Entry removed Mon Jul 17 21:04:39 2017
+# Reason: ERROR: Unable to download webpage: HTTP Error 502: Bad Gateway (caused by <HTTPError 502: 'Bad Gateway'>)
+https://www.youtube.com/watch?v=KrgYkphaWdQ
+
+################################
+
+# Entry removed Tue Jul 18 13:34:58 2017
+# Reason: ERROR: Bq6u8Q8S0WM: YouTube said: This video has been removed by the user.
+https://www.youtube.com/watch?v=Bq6u8Q8S0WM
+
+################################
+
+# Entry removed Sat Jul 22 21:19:55 2017
+# Reason: ERROR: Unable to download webpage: <urlopen error [Errno 11004] getaddrinfo failed> (caused by URLError(gaierror(11004, 'getaddrinfo failed'),))
+https://www.youtube.com/watch?v=Bx0Fan_U23A
+
+################################
+
+# Entry removed Sat Jul 22 21:26:20 2017
+# Reason: ERROR: Unable to download webpage: <urlopen error [Errno 11004] getaddrinfo failed> (caused by URLError(gaierror(11004, 'getaddrinfo failed'),))
+https://www.youtube.com/watch?v=YJNWxaKZycY
+
+################################
+
+# Entry removed Sat Jul 22 21:26:30 2017
+# Reason: ERROR: Unable to download webpage: <urlopen error [Errno 11004] getaddrinfo failed> (caused by URLError(gaierror(11004, 'getaddrinfo failed'),))
+https://www.youtube.com/watch?v=OThE7n9owOA
+
+################################
+
+# Entry removed Sat Jul 22 23:09:20 2017
+# Reason: ERROR: EQukOrph8vc: YouTube said: This video has been removed by the user.
+https://www.youtube.com/watch?v=EQukOrph8vc
+
+################################
+
+# Entry removed Sat Jul 22 23:42:18 2017
+# Reason: ERROR: 2A28UAiSisU: YouTube said: This video has been removed by the user.
+https://www.youtube.com/watch?v=2A28UAiSisU
+
+################################
+
+# Entry removed Sat Jul 22 23:55:21 2017
+# Reason: ERROR: wOSM0bTjl6I: YouTube said: This video has been removed by the user.
+https://www.youtube.com/watch?v=wOSM0bTjl6I
+
+################################
+
+# Entry removed Sun Jul 23 00:05:27 2017
+# Reason: ERROR: 2um50EhcpOM: YouTube said: This video has been removed by the user.
+https://www.youtube.com/watch?v=2um50EhcpOM
+
+################################
+
+# Entry removed Sun Jul 23 00:30:00 2017
+# Reason: ERROR: 9GIiNxnmbPs: YouTube said: This video has been removed by the user.
+https://www.youtube.com/watch?v=9GIiNxnmbPs
+
+################################
+
+# Entry removed Sun Jul 23 00:35:25 2017
+# Reason: ERROR: ultnMmUXcl0: YouTube said: This video has been removed by the user.
+https://www.youtube.com/watch?v=ultnMmUXcl0
+
+################################
+
+# Entry removed Sun Jul 23 00:42:11 2017
+# Reason: ERROR: BGxlstU6JLw: YouTube said: This video has been removed by the user.
+https://www.youtube.com/watch?v=BGxlstU6JLw
+
+################################
+
+# Entry removed Sun Jul 23 00:48:57 2017
+# Reason: ERROR: xY_lyExWbeo: YouTube said: This video has been removed by the user.
+https://www.youtube.com/watch?v=xY_lyExWbeo
+
+################################
+
+# Entry removed Sun Jul 23 01:04:36 2017
+# Reason: ERROR: 7228689JMXY: YouTube said: This video has been removed by the user.
+https://www.youtube.com/watch?v=7228689JMXY
+
+################################
+
+# Entry removed Sun Jul 23 01:57:40 2017
+# Reason: ERROR: JGMT0Ph3hJY: YouTube said: This video has been removed by the user.
+https://www.youtube.com/watch?v=JGMT0Ph3hJY
+
+################################
+
+# Entry removed Sun Jul 23 02:08:27 2017
+# Reason: ERROR: P6SyKqgVoZw: YouTube said: This video has been removed by the user.
+https://www.youtube.com/watch?v=P6SyKqgVoZw
+
+################################
+
+# Entry removed Sun Jul 23 02:50:06 2017
+# Reason: ERROR: X_8IFeMBZvA: YouTube said: This video has been removed by the user.
+https://www.youtube.com/watch?v=X_8IFeMBZvA
+
+################################
+
+# Entry removed Sun Jul 23 16:39:46 2017
+# Reason: ERROR: B_6XmQza2IY: YouTube said: This video has been removed by the user.
+https://www.youtube.com/watch?v=B_6XmQza2IY
+
+################################
+
+# Entry removed Sun Jul 23 17:10:44 2017
+# Reason: ERROR: 7JzYEkDM5Mg: YouTube said: This video has been removed by the user.
+https://www.youtube.com/watch?v=7JzYEkDM5Mg
+
+################################
+
+# Entry removed Sun Jul 23 17:51:26 2017
+# Reason: ERROR: QVPg48nD9ok: YouTube said: This video has been removed by the user.
+https://www.youtube.com/watch?v=QVPg48nD9ok
+
+################################
+
+# Entry removed Sun Jul 23 18:46:29 2017
+# Reason: ERROR: _GvNv-KOhLM: YouTube said: This video has been removed by the user.
+https://www.youtube.com/watch?v=_GvNv-KOhLM
+
+################################
+
+# Entry removed Sun Jul 23 19:08:14 2017
+# Reason: ERROR: w2q3j-w3OHs: YouTube said: This video has been removed by the user.
+https://www.youtube.com/watch?v=w2q3j-w3OHs
+
+################################
+
+# Entry removed Sun Jul 23 19:53:59 2017
+# Reason: ERROR: qY8s918PbiI: YouTube said: This video has been removed by the user.
+https://www.youtube.com/watch?v=qY8s918PbiI
+
+################################
+
+# Entry removed Sun Jul 23 20:07:50 2017
+# Reason: ERROR: CT8qTzr6PFo: YouTube said: This video has been removed by the user.
+https://www.youtube.com/watch?v=CT8qTzr6PFo
+
+################################
+
+# Entry removed Sun Jul 23 22:48:25 2017
+# Reason: ERROR: B_h0Kp7mG_k: YouTube said: This video has been removed by the user.
+https://www.youtube.com/watch?v=B_h0Kp7mG_k
+
+################################
+
+# Entry removed Mon Jul 24 23:29:44 2017
+# Reason: ERROR: bV_czdh3WQw: YouTube said: This video has been removed by the user.
+https://www.youtube.com/watch?v=bV_czdh3WQw
+
+################################
+
+# Entry removed Sat Jul 29 15:44:40 2017
+# Reason: ERROR: wn3_KqSbfl8: YouTube said: This video contains content from UMG, who has blocked it in your country on copyright grounds.
+https://www.youtube.com/watch?v=wn3_KqSbfl8
+
+################################
+
+# Entry removed Tue Aug  1 23:58:29 2017
+# Reason: ERROR: azpERp3QqFs: YouTube said: "San Holo vs. Kanye West - ..."
+#          This video is no longer available due to a copyright claim by Universal Music Ltd.
+https://www.youtube.com/watch?v=azpERp3QqFs
+
+################################
+
+# Entry removed Thu Aug  3 23:36:31 2017
+# Reason: ERROR: wn3_KqSbfl8: YouTube said: This video contains content from UMG, who has blocked it in your country on copyright grounds.
+https://www.youtube.com/watch?v=wn3_KqSbfl8
+
+################################
+
+# Entry removed Fri Aug  4 15:25:32 2017
+# Reason: ERROR: nxVHEiDhuxs: YouTube said: This video has been removed by the user.
+https://www.youtube.com/watch?v=nxVHEiDhuxs
+
+################################
+
+# Entry removed Fri Aug  4 16:48:21 2017
+# Reason: ERROR: azpERp3QqFs: YouTube said: "San Holo vs. Kanye West - ..."
+#          This video is no longer available due to a copyright claim by Universal Music Ltd.
+https://www.youtube.com/watch?v=azpERp3QqFs
+
+################################
+
+# Entry removed Tue Aug  8 17:30:32 2017
+# Reason: ERROR: 6cvmImnD338: YouTube said: This video has been removed by the user.
+https://www.youtube.com/watch?v=6cvmImnD338
+
+################################
+
+# Entry removed Thu Aug 10 13:38:58 2017
+# Reason: ERROR: Unable to download webpage: <urlopen error [Errno 11004] getaddrinfo failed> (caused by URLError(gaierror(11004, 'getaddrinfo failed'),))
+https://www.youtube.com/watch?v=H60oV6cg4MU
+
+################################
+
+# Entry removed Thu Aug 10 13:39:12 2017
+# Reason: ERROR: Unable to download webpage: <urlopen error [Errno 11004] getaddrinfo failed> (caused by URLError(gaierror(11004, 'getaddrinfo failed'),))
+https://www.youtube.com/watch?v=mAyajvgHZ-c
+
+################################
+
+# Entry removed Thu Aug 10 13:39:26 2017
+# Reason: ERROR: Unable to download webpage: <urlopen error [Errno 11004] getaddrinfo failed> (caused by URLError(gaierror(11004, 'getaddrinfo failed'),))
+https://www.youtube.com/watch?v=4UY3tV4-fB0
+
+################################
+
+# Entry removed Thu Aug 10 13:39:40 2017
+# Reason: ERROR: Unable to download webpage: <urlopen error [Errno 11004] getaddrinfo failed> (caused by URLError(gaierror(11004, 'getaddrinfo failed'),))
+https://www.youtube.com/watch?v=WEcycz0rGXc
+
+################################
+
+# Entry removed Tue Aug 15 23:58:24 2017
+# Reason: ERROR: Unable to download webpage: HTTP Error 502: Bad Gateway (caused by <HTTPError 502: 'Bad Gateway'>)
+https://www.youtube.com/watch?v=4xpdeQqiTL8
+
+################################
+
+# Entry removed Tue Aug 15 23:58:24 2017
+# Reason: ERROR: Unable to download webpage: HTTP Error 502: Bad Gateway (caused by <HTTPError 502: 'Bad Gateway'>)
+https://www.youtube.com/watch?v=glC5r-BIVIU
+
+################################
+
+# Entry removed Sat Aug 19 21:51:46 2017
+# Reason: ERROR: Unable to download webpage: <urlopen error EOF occurred in violation of protocol (_ssl.c:645)> (caused by URLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:645)'),))
+https://www.youtube.com/watch?v=AyqWX36iTKM
+
+################################
+
+# Entry removed Thu Aug 24 21:19:08 2017
+# Reason: ERROR: Unable to download webpage: HTTP Error 502: Bad Gateway (caused by <HTTPError 502: 'Bad Gateway'>)
+https://www.youtube.com/watch?v=wAswsT3iivY
+
+################################
+
+# Entry removed Sat Aug 26 01:30:45 2017
+# Reason: ERROR: XFflwRnn2Ts: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=XFflwRnn2Ts
+
+################################
+
+# Entry removed Sat Aug 26 01:30:46 2017
+# Reason: ERROR: vzSj3DZfHNY: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=vzSj3DZfHNY
+
+################################
+
+# Entry removed Sat Aug 26 01:30:46 2017
+# Reason: ERROR: yNSNF7v9tiQ: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=yNSNF7v9tiQ
+
+################################
+
+# Entry removed Sat Aug 26 01:30:46 2017
+# Reason: ERROR: SVPui2Cgmvo: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=SVPui2Cgmvo
+
+################################
+
+# Entry removed Sat Aug 26 01:30:47 2017
+# Reason: ERROR: Bx0Fan_U23A: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=Bx0Fan_U23A
+
+################################
+
+# Entry removed Sat Aug 26 01:30:47 2017
+# Reason: ERROR: M_djqQn0_rg: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=M_djqQn0_rg
+
+################################
+
+# Entry removed Sat Aug 26 01:30:47 2017
+# Reason: ERROR: i7cFaE_Oh4o: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=i7cFaE_Oh4o
+
+################################
+
+# Entry removed Sat Aug 26 01:30:48 2017
+# Reason: ERROR: GwsmEy4pd0k: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=GwsmEy4pd0k
+
+################################
+
+# Entry removed Sat Aug 26 01:30:48 2017
+# Reason: ERROR: EJ813XpyPYE: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=EJ813XpyPYE
+
+################################
+
+# Entry removed Sat Aug 26 01:30:49 2017
+# Reason: ERROR: ABPCtkLhLBM: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=ABPCtkLhLBM
+
+################################
+
+# Entry removed Sat Aug 26 01:30:49 2017
+# Reason: ERROR: rZ18aNF-Ils: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=rZ18aNF-Ils
+
+################################
+
+# Entry removed Sat Aug 26 01:30:49 2017
+# Reason: ERROR: sR3CRK65zR8: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=sR3CRK65zR8
+
+################################
+
+# Entry removed Sat Aug 26 01:30:50 2017
+# Reason: ERROR: bp6DtlAtdo0: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=bp6DtlAtdo0
+
+################################
+
+# Entry removed Sat Aug 26 01:30:50 2017
+# Reason: ERROR: uTEl0kKNerc: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=uTEl0kKNerc
+
+################################
+
+# Entry removed Sat Aug 26 01:30:50 2017
+# Reason: ERROR: RTbmgZVQ60k: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=RTbmgZVQ60k
+
+################################
+
+# Entry removed Sat Aug 26 01:30:51 2017
+# Reason: ERROR: n9gNIuGd8yE: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=n9gNIuGd8yE
+
+################################
+
+# Entry removed Sat Aug 26 01:30:51 2017
+# Reason: ERROR: dme5PJwl_uE: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=dme5PJwl_uE
+
+################################
+
+# Entry removed Sat Aug 26 01:30:51 2017
+# Reason: ERROR: WmPWwf0sjQw: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=WmPWwf0sjQw
+
+################################
+
+# Entry removed Sat Aug 26 01:30:52 2017
+# Reason: ERROR: omjDrPcRDLE: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=omjDrPcRDLE
+
+################################
+
+# Entry removed Sat Aug 26 01:30:52 2017
+# Reason: ERROR: awIZB1qKFoQ: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=awIZB1qKFoQ
+
+################################
+
+# Entry removed Sat Aug 26 01:30:53 2017
+# Reason: ERROR: YrCkx62qh40: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=YrCkx62qh40
+
+################################
+
+# Entry removed Sat Aug 26 01:30:53 2017
+# Reason: ERROR: rlQGsOKZEj8: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=rlQGsOKZEj8
+
+################################
+
+# Entry removed Sat Aug 26 01:30:53 2017
+# Reason: ERROR: D1mkYd9dx4E: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=D1mkYd9dx4E
+
+################################
+
+# Entry removed Sat Aug 26 01:30:54 2017
+# Reason: ERROR: 1iJ9Vn2ez3I: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=1iJ9Vn2ez3I
+
+################################
+
+# Entry removed Sat Aug 26 01:30:54 2017
+# Reason: ERROR: _z9SI-avKNA: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=_z9SI-avKNA
+
+################################
+
+# Entry removed Sat Aug 26 01:30:54 2017
+# Reason: ERROR: U-oWzh0RRXE: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=U-oWzh0RRXE
+
+################################
+
+# Entry removed Sat Aug 26 01:30:55 2017
+# Reason: ERROR: EZ6srqUh-_Y: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=EZ6srqUh-_Y
+
+################################
+
+# Entry removed Sat Aug 26 01:30:55 2017
+# Reason: ERROR: CoWDA_7QTLs: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=CoWDA_7QTLs
+
+################################
+
+# Entry removed Sat Aug 26 01:30:56 2017
+# Reason: ERROR: 9MtPgn7ztdg: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=9MtPgn7ztdg
+
+################################
+
+# Entry removed Sat Aug 26 01:30:56 2017
+# Reason: ERROR: gWUfpTF541o: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=gWUfpTF541o
+
+################################
+
+# Entry removed Sat Aug 26 01:30:56 2017
+# Reason: ERROR: JZ-bDNCUaG0: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=JZ-bDNCUaG0
+
+################################
+
+# Entry removed Sat Aug 26 01:30:57 2017
+# Reason: ERROR: g3-pnkQH_SQ: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=g3-pnkQH_SQ
+
+################################
+
+# Entry removed Sat Aug 26 01:30:57 2017
+# Reason: ERROR: W9SoL6G2DVg: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=W9SoL6G2DVg
+
+################################
+
+# Entry removed Sat Aug 26 01:30:57 2017
+# Reason: ERROR: lsLce1I3MjA: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=lsLce1I3MjA
+
+################################
+
+# Entry removed Sat Aug 26 01:30:58 2017
+# Reason: ERROR: dwZGWm51sRk: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=dwZGWm51sRk
+
+################################
+
+# Entry removed Sat Aug 26 01:30:58 2017
+# Reason: ERROR: F_JOtvVMR5o: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=F_JOtvVMR5o
+
+################################
+
+# Entry removed Sat Aug 26 01:30:58 2017
+# Reason: ERROR: m9YVotDPrUE: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=m9YVotDPrUE
+
+################################
+
+# Entry removed Sat Aug 26 01:30:59 2017
+# Reason: ERROR: CCaxi3-i-cs: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=CCaxi3-i-cs
+
+################################
+
+# Entry removed Sat Aug 26 01:30:59 2017
+# Reason: ERROR: -PKIzuIc4jA: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=-PKIzuIc4jA
+
+################################
+
+# Entry removed Sat Aug 26 01:31:00 2017
+# Reason: ERROR: a9vUb0OU8u4: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=a9vUb0OU8u4
+
+################################
+
+# Entry removed Sat Aug 26 01:31:00 2017
+# Reason: ERROR: 3zjIqVjOvjQ: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=3zjIqVjOvjQ
+
+################################
+
+# Entry removed Sat Aug 26 01:31:00 2017
+# Reason: ERROR: 2T3g2orxbAY: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=2T3g2orxbAY
+
+################################
+
+# Entry removed Sat Aug 26 01:31:01 2017
+# Reason: ERROR: rL11QgXr2Ug: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=rL11QgXr2Ug
+
+################################
+
+# Entry removed Sat Aug 26 01:31:01 2017
+# Reason: ERROR: XGercICss1o: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=XGercICss1o
+
+################################
+
+# Entry removed Sat Aug 26 01:31:01 2017
+# Reason: ERROR: PHBXj_AwTRQ: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=PHBXj_AwTRQ
+
+################################
+
+# Entry removed Sat Aug 26 01:31:02 2017
+# Reason: ERROR: d-06onkcY6g: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=d-06onkcY6g
+
+################################
+
+# Entry removed Sat Aug 26 01:31:02 2017
+# Reason: ERROR: poHFfxP1x8M: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=poHFfxP1x8M
+
+################################
+
+# Entry removed Sat Aug 26 01:31:03 2017
+# Reason: ERROR: A-G93uqJtcg: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=A-G93uqJtcg
+
+################################
+
+# Entry removed Sat Aug 26 01:31:03 2017
+# Reason: ERROR: vsONHOyvoIM: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=vsONHOyvoIM
+
+################################
+
+# Entry removed Sat Aug 26 01:31:03 2017
+# Reason: ERROR: UAtRk2Mr2iQ: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=UAtRk2Mr2iQ
+
+################################
+
+# Entry removed Sat Aug 26 01:31:04 2017
+# Reason: ERROR: TSbLIFe8Meo: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=TSbLIFe8Meo
+
+################################
+
+# Entry removed Sat Aug 26 01:31:04 2017
+# Reason: ERROR: xM_z-4tqfQk: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=xM_z-4tqfQk
+
+################################
+
+# Entry removed Sat Aug 26 01:31:04 2017
+# Reason: ERROR: luLOvEd6u94: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=luLOvEd6u94
+
+################################
+
+# Entry removed Sat Aug 26 01:31:05 2017
+# Reason: ERROR: KrgYkphaWdQ: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=KrgYkphaWdQ
+
+################################
+
+# Entry removed Sat Aug 26 01:31:05 2017
+# Reason: ERROR: bd0-BrgOZxA: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=bd0-BrgOZxA
+
+################################
+
+# Entry removed Sat Aug 26 01:31:06 2017
+# Reason: ERROR: clbWhG6p1IM: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=clbWhG6p1IM
+
+################################
+
+# Entry removed Sat Aug 26 01:31:06 2017
+# Reason: ERROR: 2u82tF5uk9s: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=2u82tF5uk9s
+
+################################
+
+# Entry removed Sat Aug 26 01:31:07 2017
+# Reason: ERROR: RUncAPJjC-Q: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=RUncAPJjC-Q
+
+################################
+
+# Entry removed Sat Aug 26 01:31:07 2017
+# Reason: ERROR: sTZKzdIy9EA: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=sTZKzdIy9EA
+
+################################
+
+# Entry removed Sat Aug 26 01:31:07 2017
+# Reason: ERROR: ARMawqY1XCI: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=ARMawqY1XCI
+
+################################
+
+# Entry removed Sat Aug 26 01:31:08 2017
+# Reason: ERROR: 1u73VVCtSXo: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=1u73VVCtSXo
+
+################################
+
+# Entry removed Sat Aug 26 01:31:08 2017
+# Reason: ERROR: RuSJ7e_8XlE: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=RuSJ7e_8XlE
+
+################################
+
+# Entry removed Sat Aug 26 01:31:08 2017
+# Reason: ERROR: hDHOqOn_XkE: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=hDHOqOn_XkE
+
+################################
+
+# Entry removed Sat Aug 26 01:31:09 2017
+# Reason: ERROR: OThE7n9owOA: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=OThE7n9owOA
+
+################################
+
+# Entry removed Sat Aug 26 01:31:09 2017
+# Reason: ERROR: bAygYrbug-E: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=bAygYrbug-E
+
+################################
+
+# Entry removed Sat Aug 26 01:31:10 2017
+# Reason: ERROR: KWotMJDJcVU: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=KWotMJDJcVU
+
+################################
+
+# Entry removed Sat Aug 26 01:31:10 2017
+# Reason: ERROR: tfPto6DGO9Q: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=tfPto6DGO9Q
+
+################################
+
+# Entry removed Sat Aug 26 01:31:10 2017
+# Reason: ERROR: RDrQAALeLW8: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=RDrQAALeLW8
+
+################################
+
+# Entry removed Sat Aug 26 01:31:11 2017
+# Reason: ERROR: LGR_xj961D4: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=LGR_xj961D4
+
+################################
+
+# Entry removed Sat Aug 26 01:31:11 2017
+# Reason: ERROR: ilLzwoVuhOg: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=ilLzwoVuhOg
+
+################################
+
+# Entry removed Sat Aug 26 01:31:12 2017
+# Reason: ERROR: 3V24v6h1WbY: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=3V24v6h1WbY
+
+################################
+
+# Entry removed Sat Aug 26 01:31:12 2017
+# Reason: ERROR: 4TmohkWeaos: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=4TmohkWeaos
+
+################################
+
+# Entry removed Sat Aug 26 01:31:12 2017
+# Reason: ERROR: 0142xpvpBCA: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=0142xpvpBCA
+
+################################
+
+# Entry removed Sat Aug 26 01:31:13 2017
+# Reason: ERROR: dvV9hBQj_18: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=dvV9hBQj_18
+
+################################
+
+# Entry removed Sat Aug 26 01:31:13 2017
+# Reason: ERROR: tX3HJZhTyPs: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=tX3HJZhTyPs
+
+################################
+
+# Entry removed Sat Aug 26 01:31:13 2017
+# Reason: ERROR: 3H-2v_Xkq1c: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=3H-2v_Xkq1c
+
+################################
+
+# Entry removed Sat Aug 26 01:31:14 2017
+# Reason: ERROR: 0wvg1v7faic: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=0wvg1v7faic
+
+################################
+
+# Entry removed Sat Aug 26 01:31:14 2017
+# Reason: ERROR: EuiWZa0Hxz8: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=EuiWZa0Hxz8
+
+################################
+
+# Entry removed Sat Aug 26 01:31:15 2017
+# Reason: ERROR: Umiap5Fpw9g: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=Umiap5Fpw9g
+
+################################
+
+# Entry removed Sat Aug 26 01:31:15 2017
+# Reason: ERROR: lMfnwz0bX0o: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=lMfnwz0bX0o
+
+################################
+
+# Entry removed Sat Aug 26 01:31:15 2017
+# Reason: ERROR: eHGlbaWdc9c: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=eHGlbaWdc9c
+
+################################
+
+# Entry removed Sat Aug 26 01:31:16 2017
+# Reason: ERROR: Fa5OfqlbleQ: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=Fa5OfqlbleQ
+
+################################
+
+# Entry removed Sat Aug 26 01:31:16 2017
+# Reason: ERROR: 2UObFFO8PlE: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=2UObFFO8PlE
+
+################################
+
+# Entry removed Sat Aug 26 01:31:17 2017
+# Reason: ERROR: pVVNGcsjXs0: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=pVVNGcsjXs0
+
+################################
+
+# Entry removed Sat Aug 26 01:31:17 2017
+# Reason: ERROR: jsYApyGNxMw: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=jsYApyGNxMw
+
+################################
+
+# Entry removed Sat Aug 26 01:31:17 2017
+# Reason: ERROR: bAfXqSodTGg: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=bAfXqSodTGg
+
+################################
+
+# Entry removed Sat Aug 26 01:31:18 2017
+# Reason: ERROR: BG9HSntowA8: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=BG9HSntowA8
+
+################################
+
+# Entry removed Sat Aug 26 01:31:18 2017
+# Reason: ERROR: 9Zy6xDHUQ0c: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=9Zy6xDHUQ0c
+
+################################
+
+# Entry removed Sat Aug 26 01:31:19 2017
+# Reason: ERROR: iEILK-AdRgE: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=iEILK-AdRgE
+
+################################
+
+# Entry removed Sat Aug 26 01:31:19 2017
+# Reason: ERROR: Eed0rOVk9aE: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=Eed0rOVk9aE
+
+################################
+
+# Entry removed Sat Aug 26 01:31:19 2017
+# Reason: ERROR: yewlxOlGasU: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=yewlxOlGasU
+
+################################
+
+# Entry removed Sat Aug 26 01:31:19 2017
+# Reason: ERROR: 0PRv6c-4M5Y: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=0PRv6c-4M5Y
+
+################################
+
+# Entry removed Sat Aug 26 01:31:20 2017
+# Reason: ERROR: TrUhL098I54: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=TrUhL098I54
+
+################################
+
+# Entry removed Sat Aug 26 01:31:20 2017
+# Reason: ERROR: e153qA-qWbI: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=e153qA-qWbI
+
+################################
+
+# Entry removed Sat Aug 26 01:31:20 2017
+# Reason: ERROR: 1ZtImYY6Us4: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=1ZtImYY6Us4
+
+################################
+
+# Entry removed Sat Aug 26 01:31:20 2017
+# Reason: ERROR: Py20SDvkR20: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=Py20SDvkR20
+
+################################
+
+# Entry removed Sat Aug 26 01:31:21 2017
+# Reason: ERROR: _SgIai3iBzk: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=_SgIai3iBzk
+
+################################
+
+# Entry removed Sat Aug 26 01:31:21 2017
+# Reason: ERROR: I7Glp7OsUQ4: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=I7Glp7OsUQ4
+
+################################
+
+# Entry removed Sat Aug 26 01:31:21 2017
+# Reason: ERROR: -P8VKDDEAe0: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=-P8VKDDEAe0
+
+################################
+
+# Entry removed Sat Aug 26 01:31:21 2017
+# Reason: ERROR: 3qgXo6ghdTQ: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=3qgXo6ghdTQ
+
+################################
+
+# Entry removed Sat Aug 26 01:31:22 2017
+# Reason: ERROR: aUxgpfHaFLg: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=aUxgpfHaFLg
+
+################################
+
+# Entry removed Sat Aug 26 01:31:22 2017
+# Reason: ERROR: -pbwtfAYbVs: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=-pbwtfAYbVs
+
+################################
+
+# Entry removed Sat Aug 26 01:31:22 2017
+# Reason: ERROR: rvXLtUgG7KU: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=rvXLtUgG7KU
+
+################################
+
+# Entry removed Sat Aug 26 01:31:22 2017
+# Reason: ERROR: JeyKxtgTyRw: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=JeyKxtgTyRw
+
+################################
+
+# Entry removed Sat Aug 26 01:31:23 2017
+# Reason: ERROR: WpGy1akbfAw: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=WpGy1akbfAw
+
+################################
+
+# Entry removed Sat Aug 26 01:31:23 2017
+# Reason: ERROR: B_-DXlAZA-c: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=B_-DXlAZA-c
+
+################################
+
+# Entry removed Sat Aug 26 01:31:23 2017
+# Reason: ERROR: 1utUBiTW98c: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=1utUBiTW98c
+
+################################
+
+# Entry removed Sat Aug 26 01:31:23 2017
+# Reason: ERROR: uIydF27YcQg: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=uIydF27YcQg
+
+################################
+
+# Entry removed Sat Aug 26 01:31:24 2017
+# Reason: ERROR: 7A2mV_u5nXM: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=7A2mV_u5nXM
+
+################################
+
+# Entry removed Sat Aug 26 01:31:24 2017
+# Reason: ERROR: b3ACIkDWcSI: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=b3ACIkDWcSI
+
+################################
+
+# Entry removed Sat Aug 26 01:31:24 2017
+# Reason: ERROR: YsLf3AFz1eI: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=YsLf3AFz1eI
+
+################################
+
+# Entry removed Sat Aug 26 01:31:24 2017
+# Reason: ERROR: ESr1NByuAjw: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=ESr1NByuAjw
+
+################################
+
+# Entry removed Sat Aug 26 01:31:25 2017
+# Reason: ERROR: aXojYqEOOkk: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=aXojYqEOOkk
+
+################################
+
+# Entry removed Sat Aug 26 01:31:25 2017
+# Reason: ERROR: h3a9Bk9ZvHo: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=h3a9Bk9ZvHo
+
+################################
+
+# Entry removed Sat Aug 26 01:31:25 2017
+# Reason: ERROR: 9Q8H413Hjvg: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=9Q8H413Hjvg
+
+################################
+
+# Entry removed Sat Aug 26 01:31:25 2017
+# Reason: ERROR: 8jJ-2cXVr38: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=8jJ-2cXVr38
+
+################################
+
+# Entry removed Sat Aug 26 01:31:26 2017
+# Reason: ERROR: AjDxaeeM1aI: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=AjDxaeeM1aI
+
+################################
+
+# Entry removed Sat Aug 26 01:31:26 2017
+# Reason: ERROR: TvGKqfnmdf4: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=TvGKqfnmdf4
+
+################################
+
+# Entry removed Sat Aug 26 01:31:26 2017
+# Reason: ERROR: Unable to download webpage: <urlopen error [SSL: UNKNOWN_PROTOCOL] unknown protocol (_ssl.c:645)> (caused by URLError(SSLError(1, '[SSL: UNKNOWN_PROTOCOL] unknown protocol (_ssl.c:645)'),))
+https://www.youtube.com/watch?v=z-xBCDDw6NI
+
+################################
+
+# Entry removed Sat Aug 26 01:31:26 2017
+# Reason: ERROR: 9s4MgWbtn8w: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=9s4MgWbtn8w
+
+################################
+
+# Entry removed Sat Aug 26 01:31:27 2017
+# Reason: ERROR: AlbI1z6Mqzo: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=AlbI1z6Mqzo
+
+################################
+
+# Entry removed Sat Aug 26 01:31:27 2017
+# Reason: ERROR: HZxlQ_r2wkw: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=HZxlQ_r2wkw
+
+################################
+
+# Entry removed Sat Aug 26 01:31:27 2017
+# Reason: ERROR: tBOxtsyGyLk: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=tBOxtsyGyLk
+
+################################
+
+# Entry removed Sat Aug 26 01:31:27 2017
+# Reason: ERROR: JSXvQSN_xtQ: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=JSXvQSN_xtQ
+
+################################
+
+# Entry removed Sat Aug 26 01:31:28 2017
+# Reason: ERROR: MelUc84FqRY: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=MelUc84FqRY
+
+################################
+
+# Entry removed Sat Aug 26 01:31:28 2017
+# Reason: ERROR: RgCYG8nLnwQ: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=RgCYG8nLnwQ
+
+################################
+
+# Entry removed Sat Aug 26 01:31:28 2017
+# Reason: ERROR: 5BkUXgERBvQ: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=5BkUXgERBvQ
+
+################################
+
+# Entry removed Sat Aug 26 01:31:28 2017
+# Reason: ERROR: 0eF-ULP7L-k: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=0eF-ULP7L-k
+
+################################
+
+# Entry removed Sat Aug 26 01:31:29 2017
+# Reason: ERROR: i9iVR_5rZP8: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=i9iVR_5rZP8
+
+################################
+
+# Entry removed Sat Aug 26 01:31:29 2017
+# Reason: ERROR: IgYlA0ds3ZE: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=IgYlA0ds3ZE
+
+################################
+
+# Entry removed Sat Aug 26 01:31:29 2017
+# Reason: ERROR: XCx76EME6IA: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=XCx76EME6IA
+
+################################
+
+# Entry removed Sat Aug 26 01:31:30 2017
+# Reason: ERROR: B5oLekz-CvM: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=B5oLekz-CvM
+
+################################
+
+# Entry removed Sat Aug 26 01:31:30 2017
+# Reason: ERROR: SWYa6biPTvs: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=SWYa6biPTvs
+
+################################
+
+# Entry removed Sat Aug 26 01:31:30 2017
+# Reason: ERROR: 5e2YPzWfF9s: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=5e2YPzWfF9s
+
+################################
+
+# Entry removed Sat Aug 26 01:31:30 2017
+# Reason: ERROR: X5f80kPHT7Q: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=X5f80kPHT7Q
+
+################################
+
+# Entry removed Sat Aug 26 01:31:31 2017
+# Reason: ERROR: 0RU2b5gOPeA: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=0RU2b5gOPeA
+
+################################
+
+# Entry removed Sat Aug 26 01:31:31 2017
+# Reason: ERROR: y1Y3jSU6-qQ: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=y1Y3jSU6-qQ
+
+################################
+
+# Entry removed Sat Aug 26 01:31:31 2017
+# Reason: ERROR: T9lCXZ8mm8U: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=T9lCXZ8mm8U
+
+################################
+
+# Entry removed Sat Aug 26 01:31:31 2017
+# Reason: ERROR: Ri7xl8XbmRE: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=Ri7xl8XbmRE
+
+################################
+
+# Entry removed Sat Aug 26 01:31:32 2017
+# Reason: ERROR: LHP2urS7Nzg: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=LHP2urS7Nzg
+
+################################
+
+# Entry removed Sat Aug 26 01:31:32 2017
+# Reason: ERROR: 0pMSsC8d8U4: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=0pMSsC8d8U4
+
+################################
+
+# Entry removed Sat Aug 26 01:31:32 2017
+# Reason: ERROR: CjFruRwDNBE: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=CjFruRwDNBE
+
+################################
+
+# Entry removed Sat Aug 26 01:31:32 2017
+# Reason: ERROR: wRAfmIjR30M: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=wRAfmIjR30M
+
+################################
+
+# Entry removed Sat Aug 26 01:31:33 2017
+# Reason: ERROR: lp_103FPFTc: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=lp_103FPFTc
+
+################################
+
+# Entry removed Sat Aug 26 01:31:33 2017
+# Reason: ERROR: I9_XpA2yNPQ: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=I9_XpA2yNPQ
+
+################################
+
+# Entry removed Sat Aug 26 01:31:33 2017
+# Reason: ERROR: ayAbnBlIu00: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=ayAbnBlIu00
+
+################################
+
+# Entry removed Sat Aug 26 01:31:33 2017
+# Reason: ERROR: EqWxujlBv8U: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=EqWxujlBv8U
+
+################################
+
+# Entry removed Sat Aug 26 01:31:34 2017
+# Reason: ERROR: 012mYMbJz7o: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=012mYMbJz7o
+
+################################
+
+# Entry removed Sat Aug 26 01:31:34 2017
+# Reason: ERROR: ZEUYEpEp7SA: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=ZEUYEpEp7SA
+
+################################
+
+# Entry removed Sat Aug 26 01:31:34 2017
+# Reason: ERROR: N9ygEiWpM5U: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=N9ygEiWpM5U
+
+################################
+
+# Entry removed Sat Aug 26 01:31:34 2017
+# Reason: ERROR: dO6AOoscGhw: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=dO6AOoscGhw
+
+################################
+
+# Entry removed Sat Aug 26 01:31:35 2017
+# Reason: ERROR: wE_2n8TNAp4: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=wE_2n8TNAp4
+
+################################
+
+# Entry removed Sat Aug 26 01:31:35 2017
+# Reason: ERROR: NWaZSEooCS4: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=NWaZSEooCS4
+
+################################
+
+# Entry removed Sat Aug 26 01:31:35 2017
+# Reason: ERROR: 4oRuk8iGdwk: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=4oRuk8iGdwk
+
+################################
+
+# Entry removed Sat Aug 26 01:31:35 2017
+# Reason: ERROR: rRXv7MZQEts: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=rRXv7MZQEts
+
+################################
+
+# Entry removed Sat Aug 26 01:31:36 2017
+# Reason: ERROR: W3qW1fnjhHo: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=W3qW1fnjhHo
+
+################################
+
+# Entry removed Sat Aug 26 01:31:36 2017
+# Reason: ERROR: rL8oMT1inq4: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=rL8oMT1inq4
+
+################################
+
+# Entry removed Sat Aug 26 01:31:36 2017
+# Reason: ERROR: 0iVjAkxZkIo: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=0iVjAkxZkIo
+
+################################
+
+# Entry removed Sat Aug 26 01:31:36 2017
+# Reason: ERROR: JLroTAhg5Q8: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=JLroTAhg5Q8
+
+################################
+
+# Entry removed Sat Aug 26 01:31:37 2017
+# Reason: ERROR: Ue9zv_qIgSM: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=Ue9zv_qIgSM
+
+################################
+
+# Entry removed Sat Aug 26 01:31:37 2017
+# Reason: ERROR: CKWEB1uHViU: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=CKWEB1uHViU
+
+################################
+
+# Entry removed Sat Aug 26 01:31:37 2017
+# Reason: ERROR: 3GZLMqHvHig: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=3GZLMqHvHig
+
+################################
+
+# Entry removed Sat Aug 26 01:31:38 2017
+# Reason: ERROR: OazzJSh5WKA: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=OazzJSh5WKA
+
+################################
+
+# Entry removed Sat Aug 26 01:31:38 2017
+# Reason: ERROR: wGu67WuUfc4: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=wGu67WuUfc4
+
+################################
+
+# Entry removed Sat Aug 26 01:31:38 2017
+# Reason: ERROR: eeTumyMLwl8: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=eeTumyMLwl8
+
+################################
+
+# Entry removed Sat Aug 26 01:31:38 2017
+# Reason: ERROR: f6wlvd4sW84: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=f6wlvd4sW84
+
+################################
+
+# Entry removed Sat Aug 26 01:31:39 2017
+# Reason: ERROR: j9OZlzmOSzg: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=j9OZlzmOSzg
+
+################################
+
+# Entry removed Sat Aug 26 01:31:39 2017
+# Reason: ERROR: 0i9W9gaHShI: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=0i9W9gaHShI
+
+################################
+
+# Entry removed Sat Aug 26 01:31:39 2017
+# Reason: ERROR: KbKNPAiPTIA: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=KbKNPAiPTIA
+
+################################
+
+# Entry removed Sat Aug 26 01:31:39 2017
+# Reason: ERROR: A7Uoj4ZV3dk: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=A7Uoj4ZV3dk
+
+################################
+
+# Entry removed Sat Aug 26 01:31:40 2017
+# Reason: ERROR: Y8BU9ekv7YQ: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=Y8BU9ekv7YQ
+
+################################
+
+# Entry removed Sat Aug 26 01:31:40 2017
+# Reason: ERROR: Rwh8lM22atA: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=Rwh8lM22atA
+
+################################
+
+# Entry removed Sat Aug 26 01:31:40 2017
+# Reason: ERROR: 6hlMFiIFxic: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=6hlMFiIFxic
+
+################################
+
+# Entry removed Sat Aug 26 01:31:40 2017
+# Reason: ERROR: rlqYtkIk91c: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=rlqYtkIk91c
+
+################################
+
+# Entry removed Sat Aug 26 01:31:41 2017
+# Reason: ERROR: t_POhzZjzsg: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=t_POhzZjzsg
+
+################################
+
+# Entry removed Sat Aug 26 01:31:41 2017
+# Reason: ERROR: h_QZgpCtzec: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=h_QZgpCtzec
+
+################################
+
+# Entry removed Sat Aug 26 01:31:41 2017
+# Reason: ERROR: ueDFLiwOCeA: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=ueDFLiwOCeA
+
+################################
+
+# Entry removed Sat Aug 26 01:31:41 2017
+# Reason: ERROR: 08qVs1i1pqI: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=08qVs1i1pqI
+
+################################
+
+# Entry removed Sat Aug 26 01:31:42 2017
+# Reason: ERROR: BxObL5V2Tus: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=BxObL5V2Tus
+
+################################
+
+# Entry removed Sat Aug 26 01:31:42 2017
+# Reason: ERROR: Njg6g6Qnb2s: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=Njg6g6Qnb2s
+
+################################
+
+# Entry removed Sat Aug 26 01:31:42 2017
+# Reason: ERROR: 1xOFwr9wWzk: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=1xOFwr9wWzk
+
+################################
+
+# Entry removed Sat Aug 26 01:31:43 2017
+# Reason: ERROR: Rakok8iGL3Q: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=Rakok8iGL3Q
+
+################################
+
+# Entry removed Sat Aug 26 01:31:43 2017
+# Reason: ERROR: TJjL-lnVwuE: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=TJjL-lnVwuE
+
+################################
+
+# Entry removed Sat Aug 26 01:31:43 2017
+# Reason: ERROR: HUnVv4BrWsQ: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=HUnVv4BrWsQ
+
+################################
+
+# Entry removed Sat Aug 26 01:31:43 2017
+# Reason: ERROR: rqJhX3Tex24: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=rqJhX3Tex24
+
+################################
+
+# Entry removed Sat Aug 26 01:31:44 2017
+# Reason: ERROR: ShA6ovl-hYQ: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=ShA6ovl-hYQ
+
+################################
+
+# Entry removed Sat Aug 26 01:31:44 2017
+# Reason: ERROR: 24PzfmFzWcE: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=24PzfmFzWcE
+
+################################
+
+# Entry removed Sat Aug 26 01:31:44 2017
+# Reason: ERROR: i2EEgk0al5Q: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=i2EEgk0al5Q
+
+################################
+
+# Entry removed Sat Aug 26 01:31:44 2017
+# Reason: ERROR: HmXbr4DyDbA: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=HmXbr4DyDbA
+
+################################
+
+# Entry removed Sat Aug 26 01:31:45 2017
+# Reason: ERROR: 9zUmB-46LbM: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=9zUmB-46LbM
+
+################################
+
+# Entry removed Sat Aug 26 01:31:45 2017
+# Reason: ERROR: 3vFxw0lHAFk: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=3vFxw0lHAFk
+
+################################
+
+# Entry removed Sat Aug 26 01:31:45 2017
+# Reason: ERROR: cZZcZfgxJHw: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=cZZcZfgxJHw
+
+################################
+
+# Entry removed Sat Aug 26 01:31:45 2017
+# Reason: ERROR: YJNWxaKZycY: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=YJNWxaKZycY
+
+################################
+
+# Entry removed Sat Aug 26 01:31:46 2017
+# Reason: ERROR: fP94iyQJ7H8: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=fP94iyQJ7H8
+
+################################
+
+# Entry removed Sat Aug 26 01:31:46 2017
+# Reason: ERROR: hfHaWZRLhtg: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=hfHaWZRLhtg
+
+################################
+
+# Entry removed Sat Aug 26 01:31:46 2017
+# Reason: ERROR: h94nu_yyvEc: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=h94nu_yyvEc
+
+################################
+
+# Entry removed Sat Aug 26 01:31:46 2017
+# Reason: ERROR: xiqtJ3MucNM: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=xiqtJ3MucNM
+
+################################
+
+# Entry removed Sat Aug 26 01:31:47 2017
+# Reason: ERROR: d0SJfrUW9m0: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=d0SJfrUW9m0
+
+################################
+
+# Entry removed Sat Aug 26 01:31:47 2017
+# Reason: ERROR: Unable to download webpage: <urlopen error [SSL: UNKNOWN_ALERT_TYPE] unknown alert type (_ssl.c:645)> (caused by URLError(SSLError(1, '[SSL: UNKNOWN_ALERT_TYPE] unknown alert type (_ssl.c:645)'),))
+https://www.youtube.com/watch?v=96jGSRfPih4
+
+################################
+
+# Entry removed Sat Aug 26 01:31:48 2017
+# Reason: ERROR: UbyGFyc0PxQ: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=UbyGFyc0PxQ
+
+################################
+
+# Entry removed Sat Aug 26 01:31:48 2017
+# Reason: ERROR: wi9RnFM1y9M: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=wi9RnFM1y9M
+
+################################
+
+# Entry removed Sat Aug 26 01:31:48 2017
+# Reason: ERROR: bFMKCiGMGb4: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=bFMKCiGMGb4
+
+################################
+
+# Entry removed Sat Aug 26 01:31:49 2017
+# Reason: ERROR: ubAhgsp9Gi8: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=ubAhgsp9Gi8
+
+################################
+
+# Entry removed Sat Aug 26 01:31:49 2017
+# Reason: ERROR: lN41dTRg9Ko: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=lN41dTRg9Ko
+
+################################
+
+# Entry removed Sat Aug 26 01:31:49 2017
+# Reason: ERROR: TtxOCPA3o3M: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=TtxOCPA3o3M
+
+################################
+
+# Entry removed Sat Aug 26 01:31:50 2017
+# Reason: ERROR: b6GmCKZgTFo: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=b6GmCKZgTFo
+
+################################
+
+# Entry removed Sat Aug 26 01:31:50 2017
+# Reason: ERROR: dm12y9Ei7B0: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=dm12y9Ei7B0
+
+################################
+
+# Entry removed Sat Aug 26 01:31:50 2017
+# Reason: ERROR: PdcONv2iu4Q: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=PdcONv2iu4Q
+
+################################
+
+# Entry removed Sat Aug 26 01:31:50 2017
+# Reason: ERROR: X24-7vgikrA: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=X24-7vgikrA
+
+################################
+
+# Entry removed Sat Aug 26 01:31:51 2017
+# Reason: ERROR: yVuJxA8d2xE: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=yVuJxA8d2xE
+
+################################
+
+# Entry removed Sat Aug 26 01:31:51 2017
+# Reason: ERROR: LMdYoYR9ALU: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=LMdYoYR9ALU
+
+################################
+
+# Entry removed Sat Aug 26 01:31:51 2017
+# Reason: ERROR: xgvnuMyYc-c: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=xgvnuMyYc-c
+
+################################
+
+# Entry removed Sat Aug 26 01:31:51 2017
+# Reason: ERROR: ARs2QYeCYag: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=ARs2QYeCYag
+
+################################
+
+# Entry removed Sat Aug 26 01:31:52 2017
+# Reason: ERROR: 1VdpVzrgouY: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=1VdpVzrgouY
+
+################################
+
+# Entry removed Sat Aug 26 01:31:52 2017
+# Reason: ERROR: AM735h_VK24: "token" parameter not in video info for unknown reason
+https://www.youtube.com/watch?v=AM735h_VK24
+
+################################
+
+# Entry removed Wed Aug 30 18:45:27 2017
+# Reason: ERROR: Unable to download webpage: HTTP Error 502: Bad Gateway (caused by <HTTPError 502: 'Bad Gateway'>)
+https://www.youtube.com/watch?v=AjDxaeeM1aI
+
+################################
+
+# Entry removed Tue Sep  5 22:38:20 2017
+# Reason: ERROR: Unable to download webpage: <urlopen error EOF occurred in violation of protocol (_ssl.c:645)> (caused by URLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:645)'),))
+https://www.youtube.com/watch?v=3vFxw0lHAFk
+
+################################
+
+# Entry removed Sun Sep 10 22:35:15 2017
+# Reason: ERROR: Unable to download webpage: <urlopen error [Errno 11004] getaddrinfo failed> (caused by URLError(gaierror(11004, 'getaddrinfo failed'),))
+https://www.youtube.com/watch?v=Py20SDvkR20
+
+################################
+
+# Entry removed Sun Sep 10 22:35:29 2017
+# Reason: ERROR: Unable to download webpage: <urlopen error [Errno 11004] getaddrinfo failed> (caused by URLError(gaierror(11004, 'getaddrinfo failed'),))
+https://www.youtube.com/watch?v=BxObL5V2Tus
+
+################################
+
+# Entry removed Wed Oct 11 19:43:56 2017
+# Reason: ERROR: Unable to download webpage: <urlopen error [Errno 11004] getaddrinfo failed> (caused by URLError(gaierror(11004, 'getaddrinfo failed'),))
+https://www.youtube.com/watch?v=dm12y9Ei7B0
+
+################################
+
+# Entry removed Wed Oct 11 19:44:10 2017
+# Reason: ERROR: Unable to download webpage: <urlopen error [Errno 11004] getaddrinfo failed> (caused by URLError(gaierror(11004, 'getaddrinfo failed'),))
+https://www.youtube.com/watch?v=SWrZ1po22IA
+
+################################
+
+# Entry removed Thu Nov 16 16:08:03 2017
+# Reason: ERROR: EfXIrzAlOT4: YouTube said: Please sign in to view this video.
+https://www.youtube.com/watch?v=EfXIrzAlOT4
+
+################################
+
+# Entry removed Thu Nov 16 16:08:05 2017
+# Reason: ERROR: TIeTVaHYeDU: YouTube said: Please sign in to view this video.
+https://www.youtube.com/watch?v=TIeTVaHYeDU
+
+################################
+
+# Entry removed Thu Nov 16 17:26:12 2017
+# Reason: ERROR: 0LyVKmz2pq4: YouTube said: Please sign in to view this video.
+https://www.youtube.com/watch?v=0LyVKmz2pq4
+
+################################
+
+# Entry removed Thu Nov 16 18:55:59 2017
+# Reason: ERROR: 9lEDhRjXt2k: YouTube said: Please sign in to view this video.
+https://www.youtube.com/watch?v=9lEDhRjXt2k
+
+################################
+
+# Entry removed Thu Nov 16 19:00:41 2017
+# Reason: ERROR: GvaN51eXGeM: YouTube said: Please sign in to view this video.
+https://www.youtube.com/watch?v=GvaN51eXGeM
+
+################################
+
+# Entry removed Thu Nov 16 22:13:12 2017
+# Reason: ERROR: opR1p5G_JT8: YouTube said: Please sign in to view this video.
+https://www.youtube.com/watch?v=opR1p5G_JT8
+
+################################
+
+# Entry removed Fri Nov 17 22:47:54 2017
+# Reason: ERROR: l55Ln_lweFk: YouTube said: Please sign in to view this video.
+https://www.youtube.com/watch?v=l55Ln_lweFk
+
+################################
+
+# Entry removed Sat Nov 18 00:28:23 2017
+# Reason: ERROR: gkbvE8ltQYs: YouTube said: Please sign in to view this video.
+https://www.youtube.com/watch?v=gkbvE8ltQYs
+
+################################
+
+# Entry removed Sat Nov 18 00:47:30 2017
+# Reason: ERROR: 3G_KDRt3KXU: YouTube said: Please sign in to view this video.
+https://www.youtube.com/watch?v=3G_KDRt3KXU
+
+################################
+
+# Entry removed Sat Nov 18 01:35:15 2017
+# Reason: ERROR: xbwhgA9IgjE: YouTube said: Please sign in to view this video.
+https://www.youtube.com/watch?v=xbwhgA9IgjE
+
+################################
+
+# Entry removed Sat Nov 18 02:24:58 2017
+# Reason: ERROR: fI0iVyBe-40: YouTube said: Please sign in to view this video.
+https://www.youtube.com/watch?v=fI0iVyBe-40
+
+################################
+
+# Entry removed Sun Nov 19 09:56:56 2017
+# Reason: ERROR: V22KqY8h7kQ: YouTube said: This video contains content from UMG, who has blocked it on copyright grounds.
+https://www.youtube.com/watch?v=V22KqY8h7kQ
+
+################################
+
+# Entry removed Sun Nov 19 11:10:57 2017
+# Reason: ERROR: 3Jywfqlbpxs: YouTube said: Please sign in to view this video.
+https://www.youtube.com/watch?v=3Jywfqlbpxs
+
+################################
+
+# Entry removed Sun Nov 19 12:39:19 2017
+# Reason: ERROR: s_A1FJyFNGk: YouTube said: Please sign in to view this video.
+https://www.youtube.com/watch?v=s_A1FJyFNGk
+
+################################
+
+# Entry removed Sun Nov 19 12:46:43 2017
+# Reason: ERROR: Ju7tYMuFNLw: YouTube said: Please sign in to view this video.
+https://www.youtube.com/watch?v=Ju7tYMuFNLw
+
+################################
+
+# Entry removed Sun Nov 19 13:11:10 2017
+# Reason: ERROR: w_6hc6xaRfc: YouTube said: Please sign in to view this video.
+https://www.youtube.com/watch?v=w_6hc6xaRfc
+
+################################
+
+# Entry removed Sun Nov 19 19:03:00 2017
+# Reason: ERROR: jq41QAokWyA: YouTube said: Please sign in to view this video.
+https://www.youtube.com/watch?v=jq41QAokWyA
+
+################################
+
+# Entry removed Sun Nov 19 19:21:21 2017
+# Reason: ERROR: Bqb6rk6wiEc: YouTube said: Please sign in to view this video.
+https://www.youtube.com/watch?v=Bqb6rk6wiEc
+
+################################
+
+# Entry removed Sun Nov 19 21:25:47 2017
+# Reason: ERROR: z5MXT6Y4IX0: YouTube said: Please sign in to view this video.
+https://www.youtube.com/watch?v=z5MXT6Y4IX0
+
+################################
+
+# Entry removed Sun Nov 19 21:29:16 2017
+# Reason: ERROR: 4wO3v4G1W6U: YouTube said: Please sign in to view this video.
+https://www.youtube.com/watch?v=4wO3v4G1W6U
+
+################################
+
+# Entry removed Sun Nov 19 22:26:48 2017
+# Reason: ERROR: aBlT68YzqBg: YouTube said: Please sign in to view this video.
+https://www.youtube.com/watch?v=aBlT68YzqBg
+
+################################
+
+# Entry removed Sun Nov 19 23:50:14 2017
+# Reason: ERROR: OtJVnkFZ-Wk: YouTube said: Please sign in to view this video.
+https://www.youtube.com/watch?v=OtJVnkFZ-Wk
+
+################################
+
+# Entry removed Mon Nov 20 00:41:57 2017
+# Reason: ERROR: zLUu1PYIKTI: YouTube said: Please sign in to view this video.
+https://www.youtube.com/watch?v=zLUu1PYIKTI
+
+################################
+
+# Entry removed Mon Nov 20 01:43:28 2017
+# Reason: ERROR: o-u_vpuZdvo: YouTube said: Please sign in to view this video.
+https://www.youtube.com/watch?v=o-u_vpuZdvo
+
+################################
+
+# Entry removed Mon Nov 20 18:12:58 2017
+# Reason: ERROR: FWtIBQJ4dUM: YouTube said: Please sign in to view this video.
+https://www.youtube.com/watch?v=FWtIBQJ4dUM
+
+################################
+
+# Entry removed Mon Nov 20 18:30:08 2017
+# Reason: ERROR: GpOv05A1nf0: YouTube said: Please sign in to view this video.
+https://www.youtube.com/watch?v=GpOv05A1nf0
+
+################################
+
+# Entry removed Mon Nov 20 18:36:58 2017
+# Reason: ERROR: GkrYVwKTp_c: YouTube said: Please sign in to view this video.
+https://www.youtube.com/watch?v=GkrYVwKTp_c
+
+################################
+
+# Entry removed Mon Nov 20 20:12:51 2017
+# Reason: ERROR: S8PQ96R_EBM: YouTube said: Please sign in to view this video.
+https://www.youtube.com/watch?v=S8PQ96R_EBM
+
+################################
+
+# Entry removed Mon Nov 20 20:51:41 2017
+# Reason: ERROR: Gg4fFzB7EuI: YouTube said: Please sign in to view this video.
+https://www.youtube.com/watch?v=Gg4fFzB7EuI
+
+################################
+
+# Entry removed Mon Nov 20 21:07:13 2017
+# Reason: ERROR: WnY0l0lQJ3M: YouTube said: Please sign in to view this video.
+https://www.youtube.com/watch?v=WnY0l0lQJ3M
+
+################################
+
+# Entry removed Mon Nov 20 23:54:25 2017
+# Reason: ERROR: 14nQzORIC_c: YouTube said: Please sign in to view this video.
+https://www.youtube.com/watch?v=14nQzORIC_c
+
+################################
+
+# Entry removed Tue Nov 21 21:36:38 2017
+# Reason: ERROR: YKycyW7IKJ8: YouTube said: Please sign in to view this video.
+https://www.youtube.com/watch?v=YKycyW7IKJ8
+
+################################
+
+# Entry removed Tue Nov 21 23:07:29 2017
+# Reason: ERROR: AQ4P4pcZTPE: YouTube said: Please sign in to view this video.
+https://www.youtube.com/watch?v=AQ4P4pcZTPE
+
+################################
+
+# Entry removed Tue Nov 21 23:22:05 2017
+# Reason: ERROR: qp6RYG6X82g: YouTube said: Please sign in to view this video.
+https://www.youtube.com/watch?v=qp6RYG6X82g
+
+################################
+
+# Entry removed Wed Nov 22 01:09:00 2017
+# Reason: ERROR: ek7RXukDnDQ: YouTube said: Please sign in to view this video.
+https://www.youtube.com/watch?v=ek7RXukDnDQ
+
+################################
+
+# Entry removed Thu Nov 23 11:29:25 2017
+# Reason: ERROR: OFLbJVjgK4U: YouTube said: Please sign in to view this video.
+https://www.youtube.com/watch?v=OFLbJVjgK4U
+
+################################
+
+# Entry removed Thu Nov 23 16:11:04 2017
+# Reason: ERROR: mcUe9Q_qU8Y: YouTube said: Please sign in to view this video.
+https://www.youtube.com/watch?v=mcUe9Q_qU8Y
+
+################################
+
+# Entry removed Thu Nov 23 21:41:20 2017
+# Reason: ERROR: Rt9yh6BSrgU: YouTube said: This video contains content from WMG, who has blocked it on copyright grounds.
+https://www.youtube.com/watch?v=Rt9yh6BSrgU
+
+################################
+
+# Entry removed Fri Nov 24 19:53:13 2017
+# Reason: ERROR: n_zpPQIOXxs: YouTube said: Please sign in to view this video.
+https://www.youtube.com/watch?v=n_zpPQIOXxs
+
+################################
+
+# Entry removed Fri Nov 24 19:53:15 2017
+# Reason: ERROR: -1-DE0lDATQ: YouTube said: Please sign in to view this video.
+https://www.youtube.com/watch?v=-1-DE0lDATQ
+
+################################
+
+# Entry removed Fri Nov 24 20:52:59 2017
+# Reason: ERROR: Unable to download webpage: <urlopen error [Errno 11004] getaddrinfo failed> (caused by URLError(gaierror(11004, 'getaddrinfo failed'),))
+https://www.youtube.com/watch?v=1utUBiTW98c
+
+################################
+
+# Entry removed Fri Nov 24 20:53:14 2017
+# Reason: ERROR: Unable to download webpage: <urlopen error [Errno 11004] getaddrinfo failed> (caused by URLError(gaierror(11004, 'getaddrinfo failed'),))
+https://www.youtube.com/watch?v=2yhhK_2HZzQ
+
+################################
+
+# Entry removed Sat Nov 25 00:08:18 2017
+# Reason: ERROR: AgNpyAaQ26E: YouTube said: Please sign in to view this video.
+https://www.youtube.com/watch?v=AgNpyAaQ26E
+
+################################
+
+# Entry removed Sat Nov 25 22:39:54 2017
+# Reason: ERROR: za3XY66nubE: YouTube said: Please sign in to view this video.
+https://www.youtube.com/watch?v=za3XY66nubE
+
+################################
+
+# Entry removed Sat Nov 25 23:05:10 2017
+# Reason: ERROR: ED2bJLIWSKY: YouTube said: Please sign in to view this video.
+https://www.youtube.com/watch?v=ED2bJLIWSKY
+
+################################
+
+# Entry removed Mon Nov 27 23:45:13 2017
+# Reason: ERROR: Unable to download webpage: <urlopen error [Errno 11004] getaddrinfo failed> (caused by URLError(gaierror(11004, 'getaddrinfo failed'),))
+https://www.youtube.com/watch?v=cvPGYsOTtP0
+
+################################
+
+# Entry removed Tue Jan 30 20:37:25 2018
+# Reason: ERROR: Unable to download webpage: <urlopen error [Errno 11004] getaddrinfo failed> (caused by URLError(gaierror(11004, 'getaddrinfo failed'),))
+https://www.youtube.com/watch?v=517U9uHx4O4
+
+################################
+
+# Entry removed Tue Jan 30 20:37:40 2018
+# Reason: ERROR: Unable to download webpage: <urlopen error [Errno 11004] getaddrinfo failed> (caused by URLError(gaierror(11004, 'getaddrinfo failed'),))
+https://www.youtube.com/watch?v=PdcONv2iu4Q
+
+################################
+
+# Entry removed Tue Jan 30 20:37:54 2018
+# Reason: ERROR: Unable to download webpage: <urlopen error [Errno 11004] getaddrinfo failed> (caused by URLError(gaierror(11004, 'getaddrinfo failed'),))
+https://www.youtube.com/watch?v=jd5Ipzj2VJk
+
+################################
+
+# Entry removed Tue Jan 30 20:38:08 2018
+# Reason: ERROR: Unable to download webpage: <urlopen error [Errno 11004] getaddrinfo failed> (caused by URLError(gaierror(11004, 'getaddrinfo failed'),))
+https://www.youtube.com/watch?v=JnqvYKaACEg
+
+################################
+
+# Entry removed Tue Jan 30 20:38:22 2018
+# Reason: ERROR: Unable to download webpage: <urlopen error [Errno 11004] getaddrinfo failed> (caused by URLError(gaierror(11004, 'getaddrinfo failed'),))
+https://www.youtube.com/watch?v=cyW2ajAVyfA
+
+################################
+
+# Entry removed Thu Feb 15 21:06:37 2018
+# Reason: ERROR: Unable to download webpage: The read operation timed out (caused by timeout('The read operation timed out',))
+https://www.youtube.com/watch?v=aUxgpfHaFLg
+
+################################
+
